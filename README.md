@@ -1,7 +1,7 @@
 # stormwater_monitoring
 Database Design Project: Stormwater Monitoring Database Implementation Using SQL
 
-##Programming File Summary
+## Programming File Summary
 
 sql_insert.cpp and sql_insert.h - Contain the declaration and definition for the
     sql_insert function, which creates SQL insert statements based on a csv text
@@ -49,7 +49,7 @@ date-format.sql - Alters the session date format to ‘mm-dd-yyyy’. This scrip
 time-format.sql - Alters the session date format to ‘mm-dd-yyyy hh24:mi’. This 
     script is called within the 325queries.sql script.
 
-##Database Setup Instructions
+## Database Setup Instructions
 
 Note that the cpp files do not need to be re-run for database setup. However, if
 the user would like to automate the creation of more SQL insert statements, the 
