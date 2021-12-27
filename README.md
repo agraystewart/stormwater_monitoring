@@ -38,7 +38,7 @@ locations.
 
 ### Site Map
 
-![alt text]()
+![alt text](https://github.com/agraystewart/stormwater_monitoring/blob/main/ArcMap/StormwaterSampling.png)
 
 ### Example Client Questions
 
