@@ -3,12 +3,12 @@
 ## Table of Contents
 
 - [Project Scenario](#project-scenario)
-- [Database Model - Entity Relationship Diagram](#database-model-entity-relationship-diagram)
+- [Database Model - Entity Relationship Diagram](#database---model-entity-relationship-diagram)
 - [File Summary](#file-summary)
 - [Database Setup Instructions](#database-setup-instructions)
 - [Additional Information](#additional-information)
 
-## Project Scenario - Stormwater Monitoring Prototype for the Smith Inc. North Site Remediation Project
+## Project Scenario
 
 The North Site property is owned by Smith Inc. and is currently undergoing
 environmental remediation in order to remove and monitor industrial 
