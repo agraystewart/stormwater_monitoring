@@ -55,7 +55,7 @@ Note that the cpp files do not need to be re-run for database setup. However, if
 the user would like to automate the creation of more SQL insert statements, the 
 main.cpp file may be edited and re-run. The database setup steps are as follows:
 
-1. Run 325design.sql to create tables.
+Markup : 1. Run 325design.sql to create tables.
 2. Run 325populate.sql to populate tables.
 3. Run 325show_contents.sql to display the contents of the database.
 4. Run 325queries.sql to generate query results and the conc_for_calculation 
