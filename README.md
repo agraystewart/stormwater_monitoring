@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Project Scenario](#project-scenario)
-- [Database Model - Entity Relationship Diagram](#"database model - entity relationship diagram")
+- [Database Model - Entity Relationship Diagram](#database-model---entity-relationship-diagram)
 - [File Summary](#file-summary)
 - [Database Setup Instructions](#database-setup-instructions)
 - [Additional Information](#additional-information)
