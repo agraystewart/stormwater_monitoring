@@ -7,6 +7,7 @@
 - [File Summary](#file-summary)
 - [Database Setup Instructions](#database-setup-instructions)
 - [Additional Information](#additional-information)
+- [Database Use Discussion](#database-use-discussion)
 
 ## Project Scenario
 
@@ -218,3 +219,36 @@ be edited and re-run.
    * months\_between function in 325queries.sql.
    * union of select statements in 325queries.sql and 325report1.sql.
    * to\_char function to add a percent sign to numbers in 325report3.sql.
+   
+## Database Use Discussion
+
+The primary purpose of the Stormwater Monitoring Database is to maintain all
+required monitoring data and to aid in the creation of reports to meet remediation and
+stormwater monitoring requirements for the North Site property as prescribed by the
+California State Water Board. Written reports will include plots, tables, statistical
+analysis, and descriptions of the stormwater monitoring concentration results. The
+database will also help with the remediation process. If the parameters of concern have
+outfall concentrations higher than permitted levels, additional stormwater BMPs will be
+installed onsite and existing stormwater BMPs may be improved in order to reduce the
+impacts to the Seraphinite River.
+
+The database may also be utilized alongside a hydrologic and hydraulic model
+of the site. For instance, a model could be created using the Storm Water Management
+Model (SWMM) software from the United States Environmental Protection Agency.
+Hydrologic and hydraulic models are used to model a watershed or project site, which
+includes simulating historical storms, stormwater runoff, rainfall infiltration across a
+watershed, flow rates at stormwater BMPs, and infiltration at stormwater BMPs. Such
+a model would use data from the database, such as drainage areas, pervious drainage
+areas, soil types for stormwater BMPs and other monitoring locations, and soil type
+infiltration rates. The model would utilize a more detailed storm record than is currently
+saved in the database, which would include hourly rainfall data for the last 10 years.
+The model would also contain structural information about the stormwater BMPs in
+order to calculate the infiltration and flow rates. Once the model is created and
+calibrated based on onsite flow data, the model results can be used in conjunction with
+the database to provide a more complete view of the site. For instance, the model will
+be able to estimate the runoff for all sampling locations, which can then be used with
+the concentration results stored in the database to estimate the mass of contaminants
+that flow into the Seraphinite River tributaries. The model can also be used to design
+any additional stormwater BMPs that are necessary for reducing parameter
+concentrations throughout the site. More tables may be added to the database to store
+additional data that is needed for the hydrologic and hydraulic model.
