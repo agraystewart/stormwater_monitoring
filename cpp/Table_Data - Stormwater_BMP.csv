@@ -1,0 +1,8 @@
+bmp_name,bmp_type,bmp_lat,bmp_long,bmp_date_instal
+'North Tributary Infiltration Basin','Infiltration Basin',40.39535794,-124.0146067,"to_date('07-18-2016','mm-dd-yyyy hh24:mi')"
+'Valley Road Infiltration Trench','Infiltration Trench',40.38850721,-124.0254441,"to_date('08-17-2017','mm-dd-yyyy hh24:mi')"
+'South Vegetated Swale','Vegetated Swale',40.38495766,-124.0341597,"to_date('08-20-2017','mm-dd-yyyy hh24:mi')"
+'West Tributary Bioretention Basin','Bioretention Basin',40.39274388,-124.0393489,"to_date('06-25-2018','mm-dd-yyyy hh24:mi')"
+'Valley Road Bioretention Basin','Bioretention Basin',40.38968556,-124.0228042,"to_date('08-18-2018','mm-dd-yyyy hh24:mi')"
+'East Tributary Wetland','Artificial Wetland',40.39012193,-124.0128554,"to_date('07-20-2020','mm-dd-yyyy hh24:mi')"
+'Quad Road Infiltration Basin','Infiltration Basin',40.39377765,-124.0301578,"to_date('06-05-2021','mm-dd-yyyy hh24:mi')"

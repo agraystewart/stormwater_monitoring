@@ -1,0 +1,40 @@
+Ananda Gray-Stewart
+CS 325 - Fall 2021
+Last Modified: November 19, 2021
+
+Parameter(PARAM_NAME, param_units, param_test_meth, param_preserv)
+
+Storm(STORM_ID, storm_start_time, storm_end_time, storm_depth)
+
+Stormwater_BMP(BMP_NAME, bmp_type, bmp_lat, bmp_long, bmp_date_instal)
+
+Maintenance(BMP_NAME, MAINTEN_DATE)
+    foreign key (bmp_name) references Stormwater_BMP
+
+Sampling_Location(SAMP_LOC_NAME, samp_loc_type, samp_loc_lat,
+                  samp_loc_long, samp_loc_drain, samp_loc_imp_drain)
+
+BMP_Sampling_Location(SAMP_LOC_NAME, bmp_name, upst_or_downst)
+    foreign key (samp_loc_name) references Sampling_Location,
+    foreign key (bmp_name) references Stormwater_BMP
+
+Sample(storm_id, SAMPLE_ID, sample_type, sample_time)
+    foreign key (storm_id) references Storm
+
+Stormwater_Sample(samp_loc_name, SAMPLE_ID, sample_duplicate)
+    foreign key (samp_loc_name) references Sampling_Location,
+    foreign key (sample_id) references Sample,
+    foreign key (sample_duplicate) references Stormwater_Sample (sample_id)
+
+Concentration(SAMPLE_ID, PARAM_NAME, conc_result)
+    foreign key (sample_id) references Sample,
+    foreign key (param_name) references Parameter
+
+Data_Flag(SAMPLE_ID, PARAM_NAME, DATA_QUAL)
+    foreign key (sample_id, param_name) references Concentration 
+
+Soil_Type(SOIL_ID, soil_infil_rate)
+
+Soil_Area(SAMP_LOC_NAME, SOIL_ID, area_of_soil)
+    foreign key (samp_loc_name) references Sampling_Location,
+    foreign key (soil_id) references Soil_Type

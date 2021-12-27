@@ -1,0 +1,417 @@
+sample_id,param_name,conc_result
+'St22-01_blank','Total Aluminum',80
+'St22-01_blank','Total Antimony',0.08
+'St22-01_blank','Total Arsenic',0.27
+'St22-01_blank','Benzene',0.3
+'St22-01_blank','Total Beryllium',0.61
+'St22-01_blank','Total Cadmium',0.028
+'St22-01_blank','Chromium',0.71
+'St22-01_blank','Dissolved Copper',0.6
+'St22-01_blank','Total Copper',0.6
+'St22-01_blank','Dissolved Iron',5.8
+'St22-01_blank','Total Iron',5.8
+'St22-01_blank','Dissolved Lead',0.08
+'St22-01_blank','Total Lead',0.1
+'St22-01_blank','Total Magnesium',130
+'St22-01_blank','Total Mercury',0.06
+'St22-01_blank','Total Nickel',0.2
+'St22-01_blank','Nitrate + Nitrite Nitrogen',0.004
+'St22-01_blank','Total Selenium',1.5
+'St22-01_blank','Dissolved Selenium',1.5
+'St22-01_blank','Sulfate',0.13
+'St22-01_blank','Total Zinc',1.9
+'St22-01_blank','Dissolved Zinc',1.9
+'St22-01_blank','Alkalinity',0.54
+'St22-01_blank','Total Dissolved Solids',13
+'St22-01_blank','Total Suspended Solids',4
+'St22-01_blank','Turbidity',0.5
+'St22-01_BMP_NTIB_US','Total Aluminum',490
+'St22-01_BMP_NTIB_US','Total Antimony',1.3
+'St22-01_BMP_NTIB_US','Total Arsenic',6.4
+'St22-01_BMP_NTIB_US','Benzene',1.5
+'St22-01_BMP_NTIB_US','Total Beryllium',0.61
+'St22-01_BMP_NTIB_US','Total Cadmium',0.072
+'St22-01_BMP_NTIB_US','Chromium',32
+'St22-01_BMP_NTIB_US','Dissolved Copper',0.6
+'St22-01_BMP_NTIB_US','Total Copper',0.6
+'St22-01_BMP_NTIB_US','Dissolved Iron',6.3
+'St22-01_BMP_NTIB_US','Total Iron',6.5
+'St22-01_BMP_NTIB_US','Dissolved Lead',0.08
+'St22-01_BMP_NTIB_US','Total Lead',0.09
+'St22-01_BMP_NTIB_US','Total Magnesium',77000
+'St22-01_BMP_NTIB_US','Total Mercury',0.06
+'St22-01_BMP_NTIB_US','Total Nickel',19
+'St22-01_BMP_NTIB_US','Nitrate + Nitrite Nitrogen',0.0059
+'St22-01_BMP_NTIB_US','Total Selenium',1.5
+'St22-01_BMP_NTIB_US','Dissolved Selenium',1.5
+'St22-01_BMP_NTIB_US','Sulfate',0.26
+'St22-01_BMP_NTIB_US','Total Zinc',9.3
+'St22-01_BMP_NTIB_US','Dissolved Zinc',8
+'St22-01_BMP_NTIB_US','Alkalinity',1000
+'St22-01_BMP_NTIB_US','Total Dissolved Solids',14
+'St22-01_BMP_NTIB_US','Total Suspended Solids',4
+'St22-01_BMP_NTIB_US','Turbidity',2.5
+'St22-01_BMP_VRIT_US','Total Aluminum',140
+'St22-01_BMP_VRIT_US','Total Antimony',1.4
+'St22-01_BMP_VRIT_US','Total Arsenic',7.5
+'St22-01_BMP_VRIT_US','Benzene',1.5
+'St22-01_BMP_VRIT_US','Total Beryllium',0.61
+'St22-01_BMP_VRIT_US','Total Cadmium',0.054
+'St22-01_BMP_VRIT_US','Chromium',4.3
+'St22-01_BMP_VRIT_US','Dissolved Copper',0.6
+'St22-01_BMP_VRIT_US','Total Copper',0.6
+'St22-01_BMP_VRIT_US','Dissolved Iron',8.2
+'St22-01_BMP_VRIT_US','Total Iron',12
+'St22-01_BMP_VRIT_US','Dissolved Lead',0.08
+'St22-01_BMP_VRIT_US','Total Lead',0.14
+'St22-01_BMP_VRIT_US','Total Magnesium',1100
+'St22-01_BMP_VRIT_US','Total Mercury',0.06
+'St22-01_BMP_VRIT_US','Total Nickel',0.2
+'St22-01_BMP_VRIT_US','Nitrate + Nitrite Nitrogen',0.024
+'St22-01_BMP_VRIT_US','Total Selenium',3.8
+'St22-01_BMP_VRIT_US','Dissolved Selenium',1.5
+'St22-01_BMP_VRIT_US','Sulfate',79
+'St22-01_BMP_VRIT_US','Total Zinc',8
+'St22-01_BMP_VRIT_US','Dissolved Zinc',7.2
+'St22-01_BMP_VRIT_US','Alkalinity',610
+'St22-01_BMP_VRIT_US','Total Dissolved Solids',13
+'St22-01_BMP_VRIT_US','Total Suspended Solids',4
+'St22-01_BMP_VRIT_US','Turbidity',6.1
+'St22-01_BMP_SVS_US','Total Aluminum',80
+'St22-01_BMP_SVS_US','Total Antimony',1.4
+'St22-01_BMP_SVS_US','Total Arsenic',7.5
+'St22-01_BMP_SVS_US','Benzene',0.25
+'St22-01_BMP_SVS_US','Total Beryllium',0.61
+'St22-01_BMP_SVS_US','Total Cadmium',0.054
+'St22-01_BMP_SVS_US','Chromium',4
+'St22-01_BMP_SVS_US','Dissolved Copper',0.6
+'St22-01_BMP_SVS_US','Total Copper',0.6
+'St22-01_BMP_SVS_US','Dissolved Iron',5.8
+'St22-01_BMP_SVS_US','Total Iron',6.5
+'St22-01_BMP_SVS_US','Dissolved Lead',0.53
+'St22-01_BMP_SVS_US','Total Lead',0.13
+'St22-01_BMP_SVS_US','Total Magnesium',5300
+'St22-01_BMP_SVS_US','Total Mercury',0.06
+'St22-01_BMP_SVS_US','Total Nickel',0.2
+'St22-01_BMP_SVS_US','Nitrate + Nitrite Nitrogen',0.0059
+'St22-01_BMP_SVS_US','Total Selenium',1.5
+'St22-01_BMP_SVS_US','Dissolved Selenium',1.5
+'St22-01_BMP_SVS_US','Sulfate',16
+'St22-01_BMP_SVS_US','Total Zinc',9.3
+'St22-01_BMP_SVS_US','Dissolved Zinc',5.5
+'St22-01_BMP_SVS_US','Alkalinity',0.54
+'St22-01_BMP_SVS_US','Total Dissolved Solids',14
+'St22-01_BMP_SVS_US','Total Suspended Solids',4
+'St22-01_BMP_SVS_US','Turbidity',0.5
+'St22-01_BMP_WTBB_US','Total Aluminum',80
+'St22-01_BMP_WTBB_US','Total Antimony',1.2
+'St22-01_BMP_WTBB_US','Total Arsenic',3.3
+'St22-01_BMP_WTBB_US','Benzene',4.3
+'St22-01_BMP_WTBB_US','Total Beryllium',0.61
+'St22-01_BMP_WTBB_US','Total Cadmium',0.53
+'St22-01_BMP_WTBB_US','Chromium',26
+'St22-01_BMP_WTBB_US','Dissolved Copper',0.6
+'St22-01_BMP_WTBB_US','Total Copper',0.6
+'St22-01_BMP_WTBB_US','Dissolved Iron',11
+'St22-01_BMP_WTBB_US','Total Iron',15
+'St22-01_BMP_WTBB_US','Dissolved Lead',0.5
+'St22-01_BMP_WTBB_US','Total Lead',0.4
+'St22-01_BMP_WTBB_US','Total Magnesium',900
+'St22-01_BMP_WTBB_US','Total Mercury',0.06
+'St22-01_BMP_WTBB_US','Total Nickel',18
+'St22-01_BMP_WTBB_US','Nitrate + Nitrite Nitrogen',0.034
+'St22-01_BMP_WTBB_US','Total Selenium',3.9
+'St22-01_BMP_WTBB_US','Dissolved Selenium',1.5
+'St22-01_BMP_WTBB_US','Sulfate',10
+'St22-01_BMP_WTBB_US','Total Zinc',7
+'St22-01_BMP_WTBB_US','Dissolved Zinc',5.3
+'St22-01_BMP_WTBB_US','Alkalinity',300
+'St22-01_BMP_WTBB_US','Total Dissolved Solids',20
+'St22-01_BMP_WTBB_US','Total Suspended Solids',4
+'St22-01_BMP_WTBB_US','Turbidity',5.3
+'St22-01_BMP_WTBB_US_dup','Total Aluminum',80
+'St22-01_BMP_WTBB_US_dup','Total Antimony',1.1
+'St22-01_BMP_WTBB_US_dup','Total Arsenic',2.8
+'St22-01_BMP_WTBB_US_dup','Benzene',2.1
+'St22-01_BMP_WTBB_US_dup','Total Beryllium',0.61
+'St22-01_BMP_WTBB_US_dup','Total Cadmium',0.6
+'St22-01_BMP_WTBB_US_dup','Chromium',30
+'St22-01_BMP_WTBB_US_dup','Dissolved Copper',0.6
+'St22-01_BMP_WTBB_US_dup','Total Copper',0.6
+'St22-01_BMP_WTBB_US_dup','Dissolved Iron',6
+'St22-01_BMP_WTBB_US_dup','Total Iron',8
+'St22-01_BMP_WTBB_US_dup','Dissolved Lead',0.7
+'St22-01_BMP_WTBB_US_dup','Total Lead',0.3
+'St22-01_BMP_WTBB_US_dup','Total Magnesium',1000
+'St22-01_BMP_WTBB_US_dup','Total Mercury',0.06
+'St22-01_BMP_WTBB_US_dup','Total Nickel',13
+'St22-01_BMP_WTBB_US_dup','Nitrate + Nitrite Nitrogen',0.031
+'St22-01_BMP_WTBB_US_dup','Total Selenium',3.8
+'St22-01_BMP_WTBB_US_dup','Dissolved Selenium',1.5
+'St22-01_BMP_WTBB_US_dup','Sulfate',9
+'St22-01_BMP_WTBB_US_dup','Total Zinc',5.3
+'St22-01_BMP_WTBB_US_dup','Dissolved Zinc',4.8
+'St22-01_BMP_WTBB_US_dup','Alkalinity',280
+'St22-01_BMP_WTBB_US_dup','Total Dissolved Solids',25
+'St22-01_BMP_WTBB_US_dup','Total Suspended Solids',4
+'St22-01_BMP_WTBB_US_dup','Turbidity',4.1
+'St22-01_BMP_VRBB_US','Total Aluminum',310
+'St22-01_BMP_VRBB_US','Total Antimony',0.12
+'St22-01_BMP_VRBB_US','Total Arsenic',6.1
+'St22-01_BMP_VRBB_US','Benzene',4.2
+'St22-01_BMP_VRBB_US','Total Beryllium',0.61
+'St22-01_BMP_VRBB_US','Total Cadmium',0.81
+'St22-01_BMP_VRBB_US','Chromium',11
+'St22-01_BMP_VRBB_US','Dissolved Copper',0.6
+'St22-01_BMP_VRBB_US','Total Copper',0.6
+'St22-01_BMP_VRBB_US','Dissolved Iron',38
+'St22-01_BMP_VRBB_US','Total Iron',40
+'St22-01_BMP_VRBB_US','Dissolved Lead',35
+'St22-01_BMP_VRBB_US','Total Lead',0.21
+'St22-01_BMP_VRBB_US','Total Magnesium',840
+'St22-01_BMP_VRBB_US','Total Mercury',0.06
+'St22-01_BMP_VRBB_US','Total Nickel',0.2
+'St22-01_BMP_VRBB_US','Nitrate + Nitrite Nitrogen',0.008
+'St22-01_BMP_VRBB_US','Total Selenium',4.2
+'St22-01_BMP_VRBB_US','Dissolved Selenium',1.5
+'St22-01_BMP_VRBB_US','Sulfate',20
+'St22-01_BMP_VRBB_US','Total Zinc',10
+'St22-01_BMP_VRBB_US','Dissolved Zinc',9.1
+'St22-01_BMP_VRBB_US','Alkalinity',0.54
+'St22-01_BMP_VRBB_US','Total Dissolved Solids',16
+'St22-01_BMP_VRBB_US','Total Suspended Solids',4
+'St22-01_BMP_VRBB_US','Turbidity',3.8
+'St22-01_BMP_ETW_US','Total Aluminum',80
+'St22-01_BMP_ETW_US','Total Antimony',0.8
+'St22-01_BMP_ETW_US','Total Arsenic',0.97
+'St22-01_BMP_ETW_US','Benzene',3.9
+'St22-01_BMP_ETW_US','Total Beryllium',0.61
+'St22-01_BMP_ETW_US','Total Cadmium',0.7
+'St22-01_BMP_ETW_US','Chromium',6
+'St22-01_BMP_ETW_US','Dissolved Copper',0.6
+'St22-01_BMP_ETW_US','Total Copper',0.6
+'St22-01_BMP_ETW_US','Dissolved Iron',5.8
+'St22-01_BMP_ETW_US','Total Iron',6.3
+'St22-01_BMP_ETW_US','Dissolved Lead',5.8
+'St22-01_BMP_ETW_US','Total Lead',0.08
+'St22-01_BMP_ETW_US','Total Magnesium',970
+'St22-01_BMP_ETW_US','Total Mercury',0.06
+'St22-01_BMP_ETW_US','Total Nickel',13
+'St22-01_BMP_ETW_US','Nitrate + Nitrite Nitrogen',0.025
+'St22-01_BMP_ETW_US','Total Selenium',5
+'St22-01_BMP_ETW_US','Dissolved Selenium',1.5
+'St22-01_BMP_ETW_US','Sulfate',14
+'St22-01_BMP_ETW_US','Total Zinc',3.3
+'St22-01_BMP_ETW_US','Dissolved Zinc',1.9
+'St22-01_BMP_ETW_US','Alkalinity',150
+'St22-01_BMP_ETW_US','Total Dissolved Solids',13
+'St22-01_BMP_ETW_US','Total Suspended Solids',4
+'St22-01_BMP_ETW_US','Turbidity',1.1
+'St22-01_BMP_QRIB_US','Total Aluminum',80
+'St22-01_BMP_QRIB_US','Total Antimony',1.1
+'St22-01_BMP_QRIB_US','Total Arsenic',2.4
+'St22-01_BMP_QRIB_US','Benzene',0.93
+'St22-01_BMP_QRIB_US','Total Beryllium',0.61
+'St22-01_BMP_QRIB_US','Total Cadmium',0.39
+'St22-01_BMP_QRIB_US','Chromium',2
+'St22-01_BMP_QRIB_US','Dissolved Copper',0.6
+'St22-01_BMP_QRIB_US','Total Copper',0.6
+'St22-01_BMP_QRIB_US','Dissolved Iron',6.3
+'St22-01_BMP_QRIB_US','Total Iron',12
+'St22-01_BMP_QRIB_US','Dissolved Lead',0.25
+'St22-01_BMP_QRIB_US','Total Lead',0.28
+'St22-01_BMP_QRIB_US','Total Magnesium',1200
+'St22-01_BMP_QRIB_US','Total Mercury',0.06
+'St22-01_BMP_QRIB_US','Total Nickel',0.8
+'St22-01_BMP_QRIB_US','Nitrate + Nitrite Nitrogen',0.019
+'St22-01_BMP_QRIB_US','Total Selenium',1.6
+'St22-01_BMP_QRIB_US','Dissolved Selenium',1.5
+'St22-01_BMP_QRIB_US','Sulfate',15
+'St22-01_BMP_QRIB_US','Total Zinc',12
+'St22-01_BMP_QRIB_US','Dissolved Zinc',6.9
+'St22-01_BMP_QRIB_US','Alkalinity',80
+'St22-01_BMP_QRIB_US','Total Dissolved Solids',13
+'St22-01_BMP_QRIB_US','Total Suspended Solids',4
+'St22-01_BMP_QRIB_US','Turbidity',0.5
+'St22-01_BMP_SVS_DS','Total Aluminum',80
+'St22-01_BMP_SVS_DS','Total Antimony',1
+'St22-01_BMP_SVS_DS','Total Arsenic',7.2
+'St22-01_BMP_SVS_DS','Benzene',0.25
+'St22-01_BMP_SVS_DS','Total Beryllium',0.61
+'St22-01_BMP_SVS_DS','Total Cadmium',0.048
+'St22-01_BMP_SVS_DS','Chromium',2.1
+'St22-01_BMP_SVS_DS','Dissolved Copper',0.6
+'St22-01_BMP_SVS_DS','Total Copper',0.6
+'St22-01_BMP_SVS_DS','Dissolved Iron',5.8
+'St22-01_BMP_SVS_DS','Total Iron',5.8
+'St22-01_BMP_SVS_DS','Dissolved Lead',0.4
+'St22-01_BMP_SVS_DS','Total Lead',0.1
+'St22-01_BMP_SVS_DS','Total Magnesium',2000
+'St22-01_BMP_SVS_DS','Total Mercury',0.06
+'St22-01_BMP_SVS_DS','Total Nickel',0.2
+'St22-01_BMP_SVS_DS','Nitrate + Nitrite Nitrogen',0.0045
+'St22-01_BMP_SVS_DS','Total Selenium',1.5
+'St22-01_BMP_SVS_DS','Dissolved Selenium',1.5
+'St22-01_BMP_SVS_DS','Sulfate',10
+'St22-01_BMP_SVS_DS','Total Zinc',1.9
+'St22-01_BMP_SVS_DS','Dissolved Zinc',1.9
+'St22-01_BMP_SVS_DS','Alkalinity',0.54
+'St22-01_BMP_SVS_DS','Total Dissolved Solids',13
+'St22-01_BMP_SVS_DS','Total Suspended Solids',4
+'St22-01_BMP_SVS_DS','Turbidity',0.5
+'St22-01_BMP_ETW_DS','Total Aluminum',80
+'St22-01_BMP_ETW_DS','Total Antimony',0.4
+'St22-01_BMP_ETW_DS','Total Arsenic',0.4
+'St22-01_BMP_ETW_DS','Benzene',0.61
+'St22-01_BMP_ETW_DS','Total Beryllium',0.61
+'St22-01_BMP_ETW_DS','Total Cadmium',0.4
+'St22-01_BMP_ETW_DS','Chromium',0.71
+'St22-01_BMP_ETW_DS','Dissolved Copper',0.6
+'St22-01_BMP_ETW_DS','Total Copper',0.6
+'St22-01_BMP_ETW_DS','Dissolved Iron',5.8
+'St22-01_BMP_ETW_DS','Total Iron',5.9
+'St22-01_BMP_ETW_DS','Dissolved Lead',5.8
+'St22-01_BMP_ETW_DS','Total Lead',0.08
+'St22-01_BMP_ETW_DS','Total Magnesium',820
+'St22-01_BMP_ETW_DS','Total Mercury',0.06
+'St22-01_BMP_ETW_DS','Total Nickel',0.9
+'St22-01_BMP_ETW_DS','Nitrate + Nitrite Nitrogen',0.015
+'St22-01_BMP_ETW_DS','Total Selenium',1.8
+'St22-01_BMP_ETW_DS','Dissolved Selenium',1.5
+'St22-01_BMP_ETW_DS','Sulfate',3.3
+'St22-01_BMP_ETW_DS','Total Zinc',2
+'St22-01_BMP_ETW_DS','Dissolved Zinc',1.9
+'St22-01_BMP_ETW_DS','Alkalinity',110
+'St22-01_BMP_ETW_DS','Total Dissolved Solids',13
+'St22-01_BMP_ETW_DS','Total Suspended Solids',4
+'St22-01_BMP_ETW_DS','Turbidity',0.5
+'St22-01_West_OF1','Total Aluminum',80
+'St22-01_West_OF1','Total Antimony',0.7
+'St22-01_West_OF1','Total Arsenic',1.5
+'St22-01_West_OF1','Benzene',1.1
+'St22-01_West_OF1','Total Beryllium',0.61
+'St22-01_West_OF1','Total Cadmium',0.043
+'St22-01_West_OF1','Chromium',8
+'St22-01_West_OF1','Dissolved Copper',0.6
+'St22-01_West_OF1','Total Copper',0.6
+'St22-01_West_OF1','Dissolved Iron',5.8
+'St22-01_West_OF1','Total Iron',5.8
+'St22-01_West_OF1','Dissolved Lead',0.09
+'St22-01_West_OF1','Total Lead',0.1
+'St22-01_West_OF1','Total Magnesium',500
+'St22-01_West_OF1','Total Mercury',0.06
+'St22-01_West_OF1','Total Nickel',1.2
+'St22-01_West_OF1','Nitrate + Nitrite Nitrogen',0.0059
+'St22-01_West_OF1','Total Selenium',1.8
+'St22-01_West_OF1','Dissolved Selenium',1.5
+'St22-01_West_OF1','Sulfate',0.45
+'St22-01_West_OF1','Total Zinc',4
+'St22-01_West_OF1','Dissolved Zinc',3.7
+'St22-01_West_OF1','Alkalinity',2.3
+'St22-01_West_OF1','Total Dissolved Solids',13
+'St22-01_West_OF1','Total Suspended Solids',4
+'St22-01_West_OF1','Turbidity',6.1
+'St22-01_North_OF1','Total Aluminum',100
+'St22-01_North_OF1','Total Antimony',0.39
+'St22-01_North_OF1','Total Arsenic',0.57
+'St22-01_North_OF1','Benzene',0.25
+'St22-01_North_OF1','Total Beryllium',0.61
+'St22-01_North_OF1','Total Cadmium',0.039
+'St22-01_North_OF1','Chromium',1.9
+'St22-01_North_OF1','Dissolved Copper',0.6
+'St22-01_North_OF1','Total Copper',0.6
+'St22-01_North_OF1','Dissolved Iron',6.2
+'St22-01_North_OF1','Total Iron',5.8
+'St22-01_North_OF1','Dissolved Lead',0.08
+'St22-01_North_OF1','Total Lead',0.08
+'St22-01_North_OF1','Total Magnesium',450
+'St22-01_North_OF1','Total Mercury',0.06
+'St22-01_North_OF1','Total Nickel',0.2
+'St22-01_North_OF1','Nitrate + Nitrite Nitrogen',0.004
+'St22-01_North_OF1','Total Selenium',1.5
+'St22-01_North_OF1','Dissolved Selenium',1.5
+'St22-01_North_OF1','Sulfate',0.39
+'St22-01_North_OF1','Total Zinc',4.8
+'St22-01_North_OF1','Dissolved Zinc',8.9
+'St22-01_North_OF1','Alkalinity',45
+'St22-01_North_OF1','Total Dissolved Solids',14
+'St22-01_North_OF1','Total Suspended Solids',4
+'St22-01_North_OF1','Turbidity',2.5
+'St22-01_East_OF1','Total Aluminum',80
+'St22-01_East_OF1','Total Antimony',0.27
+'St22-01_East_OF1','Total Arsenic',0.27
+'St22-01_East_OF1','Benzene',0.25
+'St22-01_East_OF1','Total Beryllium',0.61
+'St22-01_East_OF1','Total Cadmium',0.029
+'St22-01_East_OF1','Chromium',1.7
+'St22-01_East_OF1','Dissolved Copper',0.6
+'St22-01_East_OF1','Total Copper',0.6
+'St22-01_East_OF1','Dissolved Iron',9.4
+'St22-01_East_OF1','Total Iron',6
+'St22-01_East_OF1','Dissolved Lead',0.15
+'St22-01_East_OF1','Total Lead',0.21
+'St22-01_East_OF1','Total Magnesium',130
+'St22-01_East_OF1','Total Mercury',0.06
+'St22-01_East_OF1','Total Nickel',12
+'St22-01_East_OF1','Nitrate + Nitrite Nitrogen',0.0078
+'St22-01_East_OF1','Total Selenium',4.3
+'St22-01_East_OF1','Dissolved Selenium',1.5
+'St22-01_East_OF1','Sulfate',0.15
+'St22-01_East_OF1','Total Zinc',1.9
+'St22-01_East_OF1','Dissolved Zinc',4.2
+'St22-01_East_OF1','Alkalinity',8
+'St22-01_East_OF1','Total Dissolved Solids',15
+'St22-01_East_OF1','Total Suspended Solids',4
+'St22-01_East_OF1','Turbidity',4.1
+'St22-01_East_OF2','Total Aluminum',80
+'St22-01_East_OF2','Total Antimony',0.5
+'St22-01_East_OF2','Total Arsenic',0.41
+'St22-01_East_OF2','Benzene',1.5
+'St22-01_East_OF2','Total Beryllium',0.61
+'St22-01_East_OF2','Total Cadmium',0.028
+'St22-01_East_OF2','Chromium',10
+'St22-01_East_OF2','Dissolved Copper',0.6
+'St22-01_East_OF2','Total Copper',0.6
+'St22-01_East_OF2','Dissolved Iron',9.7
+'St22-01_East_OF2','Total Iron',8.9
+'St22-01_East_OF2','Dissolved Lead',0.09
+'St22-01_East_OF2','Total Lead',0.34
+'St22-01_East_OF2','Total Magnesium',140
+'St22-01_East_OF2','Total Mercury',0.06
+'St22-01_East_OF2','Total Nickel',0.2
+'St22-01_East_OF2','Nitrate + Nitrite Nitrogen',0.009
+'St22-01_East_OF2','Total Selenium',1.7
+'St22-01_East_OF2','Dissolved Selenium',1.5
+'St22-01_East_OF2','Sulfate',0.29
+'St22-01_East_OF2','Total Zinc',2
+'St22-01_East_OF2','Dissolved Zinc',0.54
+'St22-01_East_OF2','Alkalinity',9
+'St22-01_East_OF2','Total Dissolved Solids',13
+'St22-01_East_OF2','Total Suspended Solids',4
+'St22-01_East_OF2','Turbidity',1.2
+'St22-01_Stream','Total Aluminum',80
+'St22-01_Stream','Total Antimony',0.19
+'St22-01_Stream','Total Arsenic',0.29
+'St22-01_Stream','Benzene',0.73
+'St22-01_Stream','Total Beryllium',0.61
+'St22-01_Stream','Total Cadmium',0.5
+'St22-01_Stream','Chromium',1.9
+'St22-01_Stream','Dissolved Copper',0.6
+'St22-01_Stream','Total Copper',0.6
+'St22-01_Stream','Dissolved Iron',6.2
+'St22-01_Stream','Total Iron',7.3
+'St22-01_Stream','Dissolved Lead',0.08
+'St22-01_Stream','Total Lead',0.08
+'St22-01_Stream','Total Magnesium',140
+'St22-01_Stream','Total Mercury',0.06
+'St22-01_Stream','Total Nickel',0.23
+'St22-01_Stream','Nitrate + Nitrite Nitrogen',0.005
+'St22-01_Stream','Total Selenium',1.7
+'St22-01_Stream','Dissolved Selenium',1.5
+'St22-01_Stream','Sulfate',0.15
+'St22-01_Stream','Total Zinc',1.9
+'St22-01_Stream','Dissolved Zinc',2.5
+'St22-01_Stream','Alkalinity',5
+'St22-01_Stream','Total Dissolved Solids',13
+'St22-01_Stream','Total Suspended Solids',4
+'St22-01_Stream','Turbidity',1.5

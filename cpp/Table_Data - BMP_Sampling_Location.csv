@@ -1,0 +1,10 @@
+samp_loc_name,bmp_name,upst_or_downst
+'BMP_NTIB_US','North Tributary Infiltration Basin','upstream'
+'BMP_VRIT_US','Valley Road Infiltration Trench','upstream'
+'BMP_SVS_US','South Vegetated Swale','upstream'
+'BMP_WTBB_US','West Tributary Bioretention Basin','upstream'
+'BMP_VRBB_US','Valley Road Bioretention Basin','upstream'
+'BMP_ETW_US','East Tributary Wetland','upstream'
+'BMP_QRIB_US','Quad Road Infiltration Basin','upstream'
+'BMP_SVS_DS','South Vegetated Swale','downstream'
+'BMP_ETW_DS','East Tributary Wetland','downstream'

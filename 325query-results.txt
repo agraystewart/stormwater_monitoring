@@ -1,0 +1,355 @@
+=======
+Query 1
+=======
+
+purpose:
+Shows the last maintenance date for each stormwater BMP and the number of
+months between the last maintenance date and the first storm of the 2022
+water year. (Note that the first storm of the 2022 water year occurs in
+2021.) This information is useful for determining if maintenance occurred
+during the necessary time period and if the stormwater BMPs were prepared
+to handle the storm.
+
+BMP_NAME                            Last Maintenance Months Between             
+----------------------------------- ---------------- --------------             
+East Tributary Wetland              18-SEP-21                    .1             
+North Tributary Infiltration Basin  18-AUG-21                   1.1             
+South Vegetated Swale               18-MAR-20                  18.1             
+Valley Road Bioretention Basin      20-AUG-21                   1.0             
+Valley Road Infiltration Trench     19-AUG-21                   1.0             
+West Tributary Bioretention Basin   19-AUG-21                   1.0             
+
+6 rows selected.
+
+=======
+Query 2
+=======
+
+purpose:
+Shows the parameter concentration results for blank samples where
+concentrations were detected (i.e. sample results where there is no 'U'
+data qualifier). This information is useful for determining if the
+sample collection method resulted in any contamination.
+
+SAMPLE_ID               PARAM_NAME                     CONC_RESULT              
+----------------------- ------------------------------ -----------              
+St22-01_blank           Benzene                                 .3              
+St22-01_blank           Total Lead                              .1              
+
+=======
+Query 3
+=======
+
+purpose:
+Shows the maximum concentration results for each parameter for all
+stormwater samples.
+
+PARAM_NAME                 MAX(CONC_RESULT)                                     
+-------------------------- ----------------                                     
+Total Lead                               .4                                     
+Total Beryllium                         .61                                     
+Total Cadmium                           .81                                     
+Total Copper                             .6                                     
+Nitrate + Nitrite Nitrogen             .034                                     
+Total Selenium                            5                                     
+Benzene                                 4.3                                     
+Chromium                                 32                                     
+Dissolved Copper                         .6                                     
+Total Iron                               40                                     
+Total Magnesium                       77000                                     
+
+PARAM_NAME                 MAX(CONC_RESULT)                                     
+-------------------------- ----------------                                     
+Dissolved Zinc                          9.1                                     
+Total Suspended Solids                    4                                     
+Total Aluminum                          490                                     
+Total Zinc                               12                                     
+Alkalinity                             1000                                     
+Total Antimony                          1.4                                     
+Total Arsenic                           7.5                                     
+Dissolved Selenium                      1.5                                     
+Total Dissolved Solids                   25                                     
+Turbidity                               6.1                                     
+Dissolved Iron                           38                                     
+
+PARAM_NAME                 MAX(CONC_RESULT)                                     
+-------------------------- ----------------                                     
+Dissolved Lead                           35                                     
+Total Mercury                           .06                                     
+Total Nickel                             19                                     
+Sulfate                                  79                                     
+
+26 rows selected.
+
+=======
+Query 4
+=======
+
+purpose:
+For all stormwater samples where a duplicate sample was collected, this
+query shows the average parameter results of the first sample and the
+duplicate sample. The original sample_id is taken as the default_id.
+(Currently there are only parameter results for one sample that has a
+duplicate sample). This information is useful since most calculations
+and graphs will need to use the average parameter results instead of
+using data values from both samples.
+
+DEFAULT_ID          PARAM_NAME                 AVG(CONC_RESULT)                 
+------------------- -------------------------- ----------------                 
+St22-01_BMP_WTBB_US Dissolved Copper                         .6                 
+                    Total Magnesium                         950                 
+                    Total Zinc                             6.15                 
+                    Total Beryllium                         .61                 
+                    Dissolved Lead                           .6                 
+                    Total Aluminum                           80                 
+                    Total Antimony                         1.15                 
+                    Total Arsenic                          3.05                 
+                    Total Cadmium                          .565                 
+                    Total Copper                             .6                 
+                    Dissolved Iron                          8.5                 
+
+DEFAULT_ID          PARAM_NAME                 AVG(CONC_RESULT)                 
+------------------- -------------------------- ----------------                 
+St22-01_BMP_WTBB_US Total Mercury                           .06                 
+                    Nitrate + Nitrite Nitrogen            .0325                 
+                    Dissolved Zinc                         5.05                 
+                    Alkalinity                              290                 
+                    Total Dissolved Solids                 22.5                 
+                    Benzene                                 3.2                 
+                    Total Lead                              .35                 
+                    Total Nickel                           15.5                 
+                    Dissolved Selenium                      1.5                 
+                    Sulfate                                 9.5                 
+                    Total Suspended Solids                    4                 
+
+DEFAULT_ID          PARAM_NAME                 AVG(CONC_RESULT)                 
+------------------- -------------------------- ----------------                 
+St22-01_BMP_WTBB_US Turbidity                               4.7                 
+                    Chromium                                 28                 
+                    Total Selenium                         3.85                 
+                    Total Iron                             11.5                 
+
+26 rows selected.
+
+=======
+Query 5
+=======
+
+purpose:
+Shows parameter results where the laboratory blank was contaminated.
+These parameter results may not be accurate representations of the
+stormwater since they may have been contaminated during the testing
+process.
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_BMP_ETW_DS      Total Magnesium                    820                  
+St22-01_East_OF2        Benzene                            1.5                  
+St22-01_BMP_NTIB_US     Total Magnesium                  77000                  
+St22-01_BMP_NTIB_US     Dissolved Zinc                       8                  
+St22-01_BMP_NTIB_US     Alkalinity                        1000                  
+St22-01_BMP_VRIT_US     Alkalinity                         610                  
+
+6 rows selected.
+
+=======
+Query 6
+=======
+
+purpose:
+For each parameter, shows the sampling locations where there have been
+concentration results that were equal to the maximum concentration
+result. This information is useful for determining if certain portions of
+the site have more contamination.
+
+PARAM_NAME                 SAMP_LOC_NAME                                        
+-------------------------- ------------------------------                       
+Alkalinity                 BMP_NTIB_US                                          
+Benzene                    BMP_WTBB_US                                          
+Chromium                   BMP_NTIB_US                                          
+Dissolved Copper           BMP_NTIB_US                                          
+                           BMP_VRIT_US                                          
+                           BMP_SVS_US                                           
+                           BMP_WTBB_US                                          
+                           BMP_WTBB_US                                          
+                           BMP_VRBB_US                                          
+                           BMP_ETW_US                                           
+                           BMP_QRIB_US                                          
+
+PARAM_NAME                 SAMP_LOC_NAME                                        
+-------------------------- ------------------------------                       
+Dissolved Copper           BMP_SVS_DS                                           
+                           BMP_ETW_DS                                           
+                           West_OF1                                             
+                           North_OF1                                            
+                           East_OF1                                             
+                           East_OF2                                             
+                           Stream                                               
+Dissolved Iron             BMP_VRBB_US                                          
+Dissolved Lead             BMP_VRBB_US                                          
+Dissolved Selenium         BMP_NTIB_US                                          
+                           BMP_VRIT_US                                          
+
+PARAM_NAME                 SAMP_LOC_NAME                                        
+-------------------------- ------------------------------                       
+Dissolved Selenium         BMP_SVS_US                                           
+                           BMP_WTBB_US                                          
+                           BMP_WTBB_US                                          
+                           BMP_VRBB_US                                          
+                           BMP_ETW_US                                           
+                           BMP_QRIB_US                                          
+                           BMP_SVS_DS                                           
+                           BMP_ETW_DS                                           
+                           West_OF1                                             
+                           North_OF1                                            
+                           East_OF1                                             
+
+PARAM_NAME                 SAMP_LOC_NAME                                        
+-------------------------- ------------------------------                       
+Dissolved Selenium         East_OF2                                             
+                           Stream                                               
+Dissolved Zinc             BMP_VRBB_US                                          
+Nitrate + Nitrite Nitrogen BMP_WTBB_US                                          
+Sulfate                    BMP_VRIT_US                                          
+Total Aluminum             BMP_NTIB_US                                          
+Total Antimony             BMP_VRIT_US                                          
+                           BMP_SVS_US                                           
+Total Arsenic              BMP_VRIT_US                                          
+                           BMP_SVS_US                                           
+Total Beryllium            BMP_NTIB_US                                          
+
+PARAM_NAME                 SAMP_LOC_NAME                                        
+-------------------------- ------------------------------                       
+Total Beryllium            BMP_VRIT_US                                          
+                           BMP_SVS_US                                           
+                           BMP_WTBB_US                                          
+                           BMP_WTBB_US                                          
+                           BMP_VRBB_US                                          
+                           BMP_ETW_US                                           
+                           BMP_QRIB_US                                          
+                           BMP_SVS_DS                                           
+                           BMP_ETW_DS                                           
+                           West_OF1                                             
+                           North_OF1                                            
+
+PARAM_NAME                 SAMP_LOC_NAME                                        
+-------------------------- ------------------------------                       
+Total Beryllium            East_OF1                                             
+                           East_OF2                                             
+                           Stream                                               
+Total Cadmium              BMP_VRBB_US                                          
+Total Copper               BMP_NTIB_US                                          
+                           BMP_VRIT_US                                          
+                           BMP_SVS_US                                           
+                           BMP_WTBB_US                                          
+                           BMP_WTBB_US                                          
+                           BMP_VRBB_US                                          
+                           BMP_ETW_US                                           
+
+PARAM_NAME                 SAMP_LOC_NAME                                        
+-------------------------- ------------------------------                       
+Total Copper               BMP_QRIB_US                                          
+                           BMP_SVS_DS                                           
+                           BMP_ETW_DS                                           
+                           West_OF1                                             
+                           North_OF1                                            
+                           East_OF1                                             
+                           East_OF2                                             
+                           Stream                                               
+Total Dissolved Solids     BMP_WTBB_US                                          
+Total Iron                 BMP_VRBB_US                                          
+Total Lead                 BMP_WTBB_US                                          
+
+PARAM_NAME                 SAMP_LOC_NAME                                        
+-------------------------- ------------------------------                       
+Total Magnesium            BMP_NTIB_US                                          
+Total Mercury              BMP_NTIB_US                                          
+                           BMP_VRIT_US                                          
+                           BMP_SVS_US                                           
+                           BMP_WTBB_US                                          
+                           BMP_WTBB_US                                          
+                           BMP_VRBB_US                                          
+                           BMP_ETW_US                                           
+                           BMP_QRIB_US                                          
+                           BMP_SVS_DS                                           
+                           BMP_ETW_DS                                           
+
+PARAM_NAME                 SAMP_LOC_NAME                                        
+-------------------------- ------------------------------                       
+Total Mercury              West_OF1                                             
+                           North_OF1                                            
+                           East_OF1                                             
+                           East_OF2                                             
+                           Stream                                               
+Total Nickel               BMP_NTIB_US                                          
+Total Selenium             BMP_ETW_US                                           
+Total Suspended Solids     BMP_NTIB_US                                          
+                           BMP_VRIT_US                                          
+                           BMP_SVS_US                                           
+                           BMP_WTBB_US                                          
+
+PARAM_NAME                 SAMP_LOC_NAME                                        
+-------------------------- ------------------------------                       
+Total Suspended Solids     BMP_WTBB_US                                          
+                           BMP_VRBB_US                                          
+                           BMP_ETW_US                                           
+                           BMP_QRIB_US                                          
+                           BMP_SVS_DS                                           
+                           BMP_ETW_DS                                           
+                           West_OF1                                             
+                           North_OF1                                            
+                           East_OF1                                             
+                           East_OF2                                             
+                           Stream                                               
+
+PARAM_NAME                 SAMP_LOC_NAME                                        
+-------------------------- ------------------------------                       
+Total Zinc                 BMP_QRIB_US                                          
+Turbidity                  BMP_VRIT_US                                          
+                           West_OF1                                             
+
+113 rows selected.
+
+=======
+Query 7
+=======
+
+purpose:
+Shows the drainage area, the impervious drainage area, and the soil type
+for the pervious portion of the  drainage area for the outfall sampling
+locations. This information is useful for getting a sense of the fraction
+of rainfall that will infiltrate and the fraction that will flow into
+the tributaries.
+
+SAMP_LOC_NAME SAMP_LOC_DRAIN SAMP_LOC_IMP_DRAIN SOIL_ID                         
+------------- -------------- ------------------ -------                         
+East_OF1               41.61              24.97 C                               
+East_OF2              142.71              49.95 B                               
+North_OF1              31.31              12.52 C                               
+West_OF1               70.79              42.47 B                               
+
+=======
+Query 8
+=======
+
+purpose:
+Shows the duration of each storm in hours and the rainfal rate of each
+storm in inches per hour. This information is useful for comparing
+the different storms that were sampled.
+
+STORM_ID DURATION_HOURS RAINFALL_RATE                                           
+-------- -------------- -------------                                           
+2020-01            22.3          .054                                           
+2020-02            33.7          .027                                           
+2020-03            18.0          .044                                           
+2020-04            24.3          .037                                           
+2021-01            22.5          .062                                           
+2021-02            19.0          .042                                           
+2021-03            15.5          .045                                           
+2021-04            27.7          .043                                           
+2022-01            22.8          .044                                           
+2022-02            37.2          .046                                           
+2022-03            27.7          .047                                           
+
+11 rows selected.
+

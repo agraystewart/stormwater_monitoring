@@ -1,0 +1,71 @@
+
+Thu Dec 09                                                                                      page    1
+                                       Downstream and Upstream BMP
+                                      Sample Concentration Results
+
+                                                                       Upstream    Downstream Percent    
+Storm ID BMP Name               Parameter                         Concentration Concentration Difference 
+-------- ---------------------- --------------------------------- ------------- ------------- ---------- 
+2022-01  East Tributary Wetland Alkalinity (mg/L)                       150.000       110.000  26.7%     
+                                Benzene (ug/L)                            3.900         0.610  84.4%     
+                                Chromium (ug/L)                           6.000         0.710  88.2%     
+                                Dissolved Copper (ug/L)                   0.600         0.600   0.0%     
+                                Dissolved Iron (ug/L)                     5.800         5.800   0.0%     
+                                Dissolved Lead (ug/L)                     5.800         5.800   0.0%     
+                                Dissolved Selenium (ug/L)                 1.500         1.500   0.0%     
+                                Dissolved Zinc (ug/L)                     1.900         1.900   0.0%     
+                                Nitrate + Nitrite Nitrogen (mg/L)         0.025         0.015  40.0%     
+                                Sulfate (mg/L)                           14.000         3.300  76.4%     
+                                Total Aluminum (ug/L)                    80.000        80.000   0.0%     
+                                Total Antimony (ug/L)                     0.800         0.400  50.0%     
+                                Total Arsenic (ug/L)                      0.970         0.400  58.8%     
+                                Total Beryllium (ug/L)                    0.610         0.610   0.0%     
+                                Total Cadmium (ug/L)                      0.700         0.400  42.9%     
+                                Total Copper (ug/L)                       0.600         0.600   0.0%     
+                                Total Dissolved Solids (mg/L)            13.000        13.000   0.0%     
+                                Total Iron (ug/L)                         6.300         5.900   6.3%     
+                                Total Lead (ug/L)                         0.080         0.080   0.0%     
+                                Total Magnesium (ug/L)                  970.000       820.000  15.5%     
+                                Total Mercury (ug/L)                      0.060         0.060   0.0%     
+                                Total Nickel (ug/L)                      13.000         0.900  93.1%     
+                                Total Selenium (ug/L)                     5.000         1.800  64.0%     
+                                Total Suspended Solids (mg/L)             4.000         4.000   0.0%     
+                                Total Zinc (ug/L)                         3.300         2.000  39.4%     
+                                Turbidity (NTU)                           1.100         0.500  54.5%     
+
+Thu Dec 09                                                                                      page    2
+                                       Downstream and Upstream BMP
+                                      Sample Concentration Results
+
+                                                                       Upstream    Downstream Percent    
+Storm ID BMP Name               Parameter                         Concentration Concentration Difference 
+-------- ---------------------- --------------------------------- ------------- ------------- ---------- 
+2022-01  South Vegetated Swale  Alkalinity (mg/L)                         0.540         0.540   0.0%     
+                                Benzene (ug/L)                            0.250         0.250   0.0%     
+                                Chromium (ug/L)                           4.000         2.100  47.5%     
+                                Dissolved Copper (ug/L)                   0.600         0.600   0.0%     
+                                Dissolved Iron (ug/L)                     5.800         5.800   0.0%     
+                                Dissolved Lead (ug/L)                     0.530         0.400  24.5%     
+                                Dissolved Selenium (ug/L)                 1.500         1.500   0.0%     
+                                Dissolved Zinc (ug/L)                     5.500         1.900  65.5%     
+                                Nitrate + Nitrite Nitrogen (mg/L)         0.006         0.005  23.7%     
+                                Sulfate (mg/L)                           16.000        10.000  37.5%     
+                                Total Aluminum (ug/L)                    80.000        80.000   0.0%     
+                                Total Antimony (ug/L)                     1.400         1.000  28.6%     
+                                Total Arsenic (ug/L)                      7.500         7.200   4.0%     
+                                Total Beryllium (ug/L)                    0.610         0.610   0.0%     
+                                Total Cadmium (ug/L)                      0.054         0.048  11.1%     
+                                Total Copper (ug/L)                       0.600         0.600   0.0%     
+                                Total Dissolved Solids (mg/L)            14.000        13.000   7.1%     
+                                Total Iron (ug/L)                         6.500         5.800  10.8%     
+                                Total Lead (ug/L)                         0.130         0.100  23.1%     
+                                Total Magnesium (ug/L)                 5300.000      2000.000  62.3%     
+                                Total Mercury (ug/L)                      0.060         0.060   0.0%     
+                                Total Nickel (ug/L)                       0.200         0.200   0.0%     
+                                Total Selenium (ug/L)                     1.500         1.500   0.0%     
+                                Total Suspended Solids (mg/L)             4.000         4.000   0.0%     
+                                Total Zinc (ug/L)                         9.300         1.900  79.6%     
+                                Turbidity (NTU)                           0.500         0.500   0.0%     
+
+52 rows selected.
+

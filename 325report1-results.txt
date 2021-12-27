@@ -1,0 +1,479 @@
+
+Mon Dec 06                                                             page    1
+                        Processed Concentration Results
+                      For Stormwater Samples by Sample ID
+
+                                               Concentration                    
+Sample ID           Parameter                         Result Units              
+------------------- -------------------------- ------------- -----              
+St22-01_BMP_ETW_DS  Alkalinity                       110.000 mg/L               
+                    Benzene                            0.610 ug/L               
+                    Chromium                           0.710 ug/L               
+                    Dissolved Copper                   0.600 ug/L               
+                    Dissolved Iron                     5.800 ug/L               
+                    Dissolved Lead                     5.800 ug/L               
+                    Dissolved Selenium                 1.500 ug/L               
+                    Dissolved Zinc                     1.900 ug/L               
+                    Nitrate + Nitrite Nitrogen         0.015 mg/L               
+                    Sulfate                            3.300 mg/L               
+                    Total Aluminum                    80.000 ug/L               
+                    Total Antimony                     0.400 ug/L               
+                    Total Arsenic                      0.400 ug/L               
+                    Total Beryllium                    0.610 ug/L               
+                    Total Cadmium                      0.400 ug/L               
+                    Total Copper                       0.600 ug/L               
+                    Total Dissolved Solids            13.000 mg/L               
+                    Total Iron                         5.900 ug/L               
+                    Total Lead                         0.080 ug/L               
+                    Total Magnesium                  820.000 ug/L               
+                    Total Mercury                      0.060 ug/L               
+                    Total Nickel                       0.900 ug/L               
+                    Total Selenium                     1.800 ug/L               
+                    Total Suspended Solids             4.000 mg/L               
+                    Total Zinc                         2.000 ug/L               
+                    Turbidity                          0.500 NTU                
+
+Mon Dec 06                                                             page    2
+                        Processed Concentration Results
+                      For Stormwater Samples by Sample ID
+
+                                               Concentration                    
+Sample ID           Parameter                         Result Units              
+------------------- -------------------------- ------------- -----              
+St22-01_BMP_ETW_US  Alkalinity                       150.000 mg/L               
+                    Benzene                            3.900 ug/L               
+                    Chromium                           6.000 ug/L               
+                    Dissolved Copper                   0.600 ug/L               
+                    Dissolved Iron                     5.800 ug/L               
+                    Dissolved Lead                     5.800 ug/L               
+                    Dissolved Selenium                 1.500 ug/L               
+                    Dissolved Zinc                     1.900 ug/L               
+                    Nitrate + Nitrite Nitrogen         0.025 mg/L               
+                    Sulfate                           14.000 mg/L               
+                    Total Aluminum                    80.000 ug/L               
+                    Total Antimony                     0.800 ug/L               
+                    Total Arsenic                      0.970 ug/L               
+                    Total Beryllium                    0.610 ug/L               
+                    Total Cadmium                      0.700 ug/L               
+                    Total Copper                       0.600 ug/L               
+                    Total Dissolved Solids            13.000 mg/L               
+                    Total Iron                         6.300 ug/L               
+                    Total Lead                         0.080 ug/L               
+                    Total Magnesium                  970.000 ug/L               
+                    Total Mercury                      0.060 ug/L               
+                    Total Nickel                      13.000 ug/L               
+                    Total Selenium                     5.000 ug/L               
+                    Total Suspended Solids             4.000 mg/L               
+                    Total Zinc                         3.300 ug/L               
+                    Turbidity                          1.100 NTU                
+
+Mon Dec 06                                                             page    3
+                        Processed Concentration Results
+                      For Stormwater Samples by Sample ID
+
+                                               Concentration                    
+Sample ID           Parameter                         Result Units              
+------------------- -------------------------- ------------- -----              
+St22-01_BMP_NTIB_US Alkalinity                      1000.000 mg/L               
+                    Benzene                            1.500 ug/L               
+                    Chromium                          32.000 ug/L               
+                    Dissolved Copper                   0.600 ug/L               
+                    Dissolved Iron                     6.300 ug/L               
+                    Dissolved Lead                     0.080 ug/L               
+                    Dissolved Selenium                 1.500 ug/L               
+                    Dissolved Zinc                     8.000 ug/L               
+                    Nitrate + Nitrite Nitrogen         0.006 mg/L               
+                    Sulfate                            0.260 mg/L               
+                    Total Aluminum                   490.000 ug/L               
+                    Total Antimony                     1.300 ug/L               
+                    Total Arsenic                      6.400 ug/L               
+                    Total Beryllium                    0.610 ug/L               
+                    Total Cadmium                      0.072 ug/L               
+                    Total Copper                       0.600 ug/L               
+                    Total Dissolved Solids            14.000 mg/L               
+                    Total Iron                         6.500 ug/L               
+                    Total Lead                         0.090 ug/L               
+                    Total Magnesium                77000.000 ug/L               
+                    Total Mercury                      0.060 ug/L               
+                    Total Nickel                      19.000 ug/L               
+                    Total Selenium                     1.500 ug/L               
+                    Total Suspended Solids             4.000 mg/L               
+                    Total Zinc                         9.300 ug/L               
+                    Turbidity                          2.500 NTU                
+
+Mon Dec 06                                                             page    4
+                        Processed Concentration Results
+                      For Stormwater Samples by Sample ID
+
+                                               Concentration                    
+Sample ID           Parameter                         Result Units              
+------------------- -------------------------- ------------- -----              
+St22-01_BMP_QRIB_US Alkalinity                        80.000 mg/L               
+                    Benzene                            0.930 ug/L               
+                    Chromium                           2.000 ug/L               
+                    Dissolved Copper                   0.600 ug/L               
+                    Dissolved Iron                     6.300 ug/L               
+                    Dissolved Lead                     0.250 ug/L               
+                    Dissolved Selenium                 1.500 ug/L               
+                    Dissolved Zinc                     6.900 ug/L               
+                    Nitrate + Nitrite Nitrogen         0.019 mg/L               
+                    Sulfate                           15.000 mg/L               
+                    Total Aluminum                    80.000 ug/L               
+                    Total Antimony                     1.100 ug/L               
+                    Total Arsenic                      2.400 ug/L               
+                    Total Beryllium                    0.610 ug/L               
+                    Total Cadmium                      0.390 ug/L               
+                    Total Copper                       0.600 ug/L               
+                    Total Dissolved Solids            13.000 mg/L               
+                    Total Iron                        12.000 ug/L               
+                    Total Lead                         0.280 ug/L               
+                    Total Magnesium                 1200.000 ug/L               
+                    Total Mercury                      0.060 ug/L               
+                    Total Nickel                       0.800 ug/L               
+                    Total Selenium                     1.600 ug/L               
+                    Total Suspended Solids             4.000 mg/L               
+                    Total Zinc                        12.000 ug/L               
+                    Turbidity                          0.500 NTU                
+
+Mon Dec 06                                                             page    5
+                        Processed Concentration Results
+                      For Stormwater Samples by Sample ID
+
+                                               Concentration                    
+Sample ID           Parameter                         Result Units              
+------------------- -------------------------- ------------- -----              
+St22-01_BMP_SVS_DS  Alkalinity                         0.540 mg/L               
+                    Benzene                            0.250 ug/L               
+                    Chromium                           2.100 ug/L               
+                    Dissolved Copper                   0.600 ug/L               
+                    Dissolved Iron                     5.800 ug/L               
+                    Dissolved Lead                     0.400 ug/L               
+                    Dissolved Selenium                 1.500 ug/L               
+                    Dissolved Zinc                     1.900 ug/L               
+                    Nitrate + Nitrite Nitrogen         0.005 mg/L               
+                    Sulfate                           10.000 mg/L               
+                    Total Aluminum                    80.000 ug/L               
+                    Total Antimony                     1.000 ug/L               
+                    Total Arsenic                      7.200 ug/L               
+                    Total Beryllium                    0.610 ug/L               
+                    Total Cadmium                      0.048 ug/L               
+                    Total Copper                       0.600 ug/L               
+                    Total Dissolved Solids            13.000 mg/L               
+                    Total Iron                         5.800 ug/L               
+                    Total Lead                         0.100 ug/L               
+                    Total Magnesium                 2000.000 ug/L               
+                    Total Mercury                      0.060 ug/L               
+                    Total Nickel                       0.200 ug/L               
+                    Total Selenium                     1.500 ug/L               
+                    Total Suspended Solids             4.000 mg/L               
+                    Total Zinc                         1.900 ug/L               
+                    Turbidity                          0.500 NTU                
+
+Mon Dec 06                                                             page    6
+                        Processed Concentration Results
+                      For Stormwater Samples by Sample ID
+
+                                               Concentration                    
+Sample ID           Parameter                         Result Units              
+------------------- -------------------------- ------------- -----              
+St22-01_BMP_SVS_US  Alkalinity                         0.540 mg/L               
+                    Benzene                            0.250 ug/L               
+                    Chromium                           4.000 ug/L               
+                    Dissolved Copper                   0.600 ug/L               
+                    Dissolved Iron                     5.800 ug/L               
+                    Dissolved Lead                     0.530 ug/L               
+                    Dissolved Selenium                 1.500 ug/L               
+                    Dissolved Zinc                     5.500 ug/L               
+                    Nitrate + Nitrite Nitrogen         0.006 mg/L               
+                    Sulfate                           16.000 mg/L               
+                    Total Aluminum                    80.000 ug/L               
+                    Total Antimony                     1.400 ug/L               
+                    Total Arsenic                      7.500 ug/L               
+                    Total Beryllium                    0.610 ug/L               
+                    Total Cadmium                      0.054 ug/L               
+                    Total Copper                       0.600 ug/L               
+                    Total Dissolved Solids            14.000 mg/L               
+                    Total Iron                         6.500 ug/L               
+                    Total Lead                         0.130 ug/L               
+                    Total Magnesium                 5300.000 ug/L               
+                    Total Mercury                      0.060 ug/L               
+                    Total Nickel                       0.200 ug/L               
+                    Total Selenium                     1.500 ug/L               
+                    Total Suspended Solids             4.000 mg/L               
+                    Total Zinc                         9.300 ug/L               
+                    Turbidity                          0.500 NTU                
+
+Mon Dec 06                                                             page    7
+                        Processed Concentration Results
+                      For Stormwater Samples by Sample ID
+
+                                               Concentration                    
+Sample ID           Parameter                         Result Units              
+------------------- -------------------------- ------------- -----              
+St22-01_BMP_VRBB_US Alkalinity                         0.540 mg/L               
+                    Benzene                            4.200 ug/L               
+                    Chromium                          11.000 ug/L               
+                    Dissolved Copper                   0.600 ug/L               
+                    Dissolved Iron                    38.000 ug/L               
+                    Dissolved Lead                    35.000 ug/L               
+                    Dissolved Selenium                 1.500 ug/L               
+                    Dissolved Zinc                     9.100 ug/L               
+                    Nitrate + Nitrite Nitrogen         0.008 mg/L               
+                    Sulfate                           20.000 mg/L               
+                    Total Aluminum                   310.000 ug/L               
+                    Total Antimony                     0.120 ug/L               
+                    Total Arsenic                      6.100 ug/L               
+                    Total Beryllium                    0.610 ug/L               
+                    Total Cadmium                      0.810 ug/L               
+                    Total Copper                       0.600 ug/L               
+                    Total Dissolved Solids            16.000 mg/L               
+                    Total Iron                        40.000 ug/L               
+                    Total Lead                         0.210 ug/L               
+                    Total Magnesium                  840.000 ug/L               
+                    Total Mercury                      0.060 ug/L               
+                    Total Nickel                       0.200 ug/L               
+                    Total Selenium                     4.200 ug/L               
+                    Total Suspended Solids             4.000 mg/L               
+                    Total Zinc                        10.000 ug/L               
+                    Turbidity                          3.800 NTU                
+
+Mon Dec 06                                                             page    8
+                        Processed Concentration Results
+                      For Stormwater Samples by Sample ID
+
+                                               Concentration                    
+Sample ID           Parameter                         Result Units              
+------------------- -------------------------- ------------- -----              
+St22-01_BMP_VRIT_US Alkalinity                       610.000 mg/L               
+                    Benzene                            1.500 ug/L               
+                    Chromium                           4.300 ug/L               
+                    Dissolved Copper                   0.600 ug/L               
+                    Dissolved Iron                     8.200 ug/L               
+                    Dissolved Lead                     0.080 ug/L               
+                    Dissolved Selenium                 1.500 ug/L               
+                    Dissolved Zinc                     7.200 ug/L               
+                    Nitrate + Nitrite Nitrogen         0.024 mg/L               
+                    Sulfate                           79.000 mg/L               
+                    Total Aluminum                   140.000 ug/L               
+                    Total Antimony                     1.400 ug/L               
+                    Total Arsenic                      7.500 ug/L               
+                    Total Beryllium                    0.610 ug/L               
+                    Total Cadmium                      0.054 ug/L               
+                    Total Copper                       0.600 ug/L               
+                    Total Dissolved Solids            13.000 mg/L               
+                    Total Iron                        12.000 ug/L               
+                    Total Lead                         0.140 ug/L               
+                    Total Magnesium                 1100.000 ug/L               
+                    Total Mercury                      0.060 ug/L               
+                    Total Nickel                       0.200 ug/L               
+                    Total Selenium                     3.800 ug/L               
+                    Total Suspended Solids             4.000 mg/L               
+                    Total Zinc                         8.000 ug/L               
+                    Turbidity                          6.100 NTU                
+
+Mon Dec 06                                                             page    9
+                        Processed Concentration Results
+                      For Stormwater Samples by Sample ID
+
+                                               Concentration                    
+Sample ID           Parameter                         Result Units              
+------------------- -------------------------- ------------- -----              
+St22-01_BMP_WTBB_US Alkalinity                       290.000 mg/L               
+                    Benzene                            3.200 ug/L               
+                    Chromium                          28.000 ug/L               
+                    Dissolved Copper                   0.600 ug/L               
+                    Dissolved Iron                     8.500 ug/L               
+                    Dissolved Lead                     0.600 ug/L               
+                    Dissolved Selenium                 1.500 ug/L               
+                    Dissolved Zinc                     5.050 ug/L               
+                    Nitrate + Nitrite Nitrogen         0.033 mg/L               
+                    Sulfate                            9.500 mg/L               
+                    Total Aluminum                    80.000 ug/L               
+                    Total Antimony                     1.150 ug/L               
+                    Total Arsenic                      3.050 ug/L               
+                    Total Beryllium                    0.610 ug/L               
+                    Total Cadmium                      0.565 ug/L               
+                    Total Copper                       0.600 ug/L               
+                    Total Dissolved Solids            22.500 mg/L               
+                    Total Iron                        11.500 ug/L               
+                    Total Lead                         0.350 ug/L               
+                    Total Magnesium                  950.000 ug/L               
+                    Total Mercury                      0.060 ug/L               
+                    Total Nickel                      15.500 ug/L               
+                    Total Selenium                     3.850 ug/L               
+                    Total Suspended Solids             4.000 mg/L               
+                    Total Zinc                         6.150 ug/L               
+                    Turbidity                          4.700 NTU                
+
+Mon Dec 06                                                             page   10
+                        Processed Concentration Results
+                      For Stormwater Samples by Sample ID
+
+                                               Concentration                    
+Sample ID           Parameter                         Result Units              
+------------------- -------------------------- ------------- -----              
+St22-01_East_OF1    Alkalinity                         8.000 mg/L               
+                    Benzene                            0.250 ug/L               
+                    Chromium                           1.700 ug/L               
+                    Dissolved Copper                   0.600 ug/L               
+                    Dissolved Iron                     9.400 ug/L               
+                    Dissolved Lead                     0.150 ug/L               
+                    Dissolved Selenium                 1.500 ug/L               
+                    Dissolved Zinc                     4.200 ug/L               
+                    Nitrate + Nitrite Nitrogen         0.008 mg/L               
+                    Sulfate                            0.150 mg/L               
+                    Total Aluminum                    80.000 ug/L               
+                    Total Antimony                     0.270 ug/L               
+                    Total Arsenic                      0.270 ug/L               
+                    Total Beryllium                    0.610 ug/L               
+                    Total Cadmium                      0.029 ug/L               
+                    Total Copper                       0.600 ug/L               
+                    Total Dissolved Solids            15.000 mg/L               
+                    Total Iron                         6.000 ug/L               
+                    Total Lead                         0.210 ug/L               
+                    Total Magnesium                  130.000 ug/L               
+                    Total Mercury                      0.060 ug/L               
+                    Total Nickel                      12.000 ug/L               
+                    Total Selenium                     4.300 ug/L               
+                    Total Suspended Solids             4.000 mg/L               
+                    Total Zinc                         1.900 ug/L               
+                    Turbidity                          4.100 NTU                
+
+Mon Dec 06                                                             page   11
+                        Processed Concentration Results
+                      For Stormwater Samples by Sample ID
+
+                                               Concentration                    
+Sample ID           Parameter                         Result Units              
+------------------- -------------------------- ------------- -----              
+St22-01_East_OF2    Alkalinity                         9.000 mg/L               
+                    Benzene                            1.500 ug/L               
+                    Chromium                          10.000 ug/L               
+                    Dissolved Copper                   0.600 ug/L               
+                    Dissolved Iron                     9.700 ug/L               
+                    Dissolved Lead                     0.090 ug/L               
+                    Dissolved Selenium                 1.500 ug/L               
+                    Dissolved Zinc                     0.540 ug/L               
+                    Nitrate + Nitrite Nitrogen         0.009 mg/L               
+                    Sulfate                            0.290 mg/L               
+                    Total Aluminum                    80.000 ug/L               
+                    Total Antimony                     0.500 ug/L               
+                    Total Arsenic                      0.410 ug/L               
+                    Total Beryllium                    0.610 ug/L               
+                    Total Cadmium                      0.028 ug/L               
+                    Total Copper                       0.600 ug/L               
+                    Total Dissolved Solids            13.000 mg/L               
+                    Total Iron                         8.900 ug/L               
+                    Total Lead                         0.340 ug/L               
+                    Total Magnesium                  140.000 ug/L               
+                    Total Mercury                      0.060 ug/L               
+                    Total Nickel                       0.200 ug/L               
+                    Total Selenium                     1.700 ug/L               
+                    Total Suspended Solids             4.000 mg/L               
+                    Total Zinc                         2.000 ug/L               
+                    Turbidity                          1.200 NTU                
+
+Mon Dec 06                                                             page   12
+                        Processed Concentration Results
+                      For Stormwater Samples by Sample ID
+
+                                               Concentration                    
+Sample ID           Parameter                         Result Units              
+------------------- -------------------------- ------------- -----              
+St22-01_North_OF1   Alkalinity                        45.000 mg/L               
+                    Benzene                            0.250 ug/L               
+                    Chromium                           1.900 ug/L               
+                    Dissolved Copper                   0.600 ug/L               
+                    Dissolved Iron                     6.200 ug/L               
+                    Dissolved Lead                     0.080 ug/L               
+                    Dissolved Selenium                 1.500 ug/L               
+                    Dissolved Zinc                     8.900 ug/L               
+                    Nitrate + Nitrite Nitrogen         0.004 mg/L               
+                    Sulfate                            0.390 mg/L               
+                    Total Aluminum                   100.000 ug/L               
+                    Total Antimony                     0.390 ug/L               
+                    Total Arsenic                      0.570 ug/L               
+                    Total Beryllium                    0.610 ug/L               
+                    Total Cadmium                      0.039 ug/L               
+                    Total Copper                       0.600 ug/L               
+                    Total Dissolved Solids            14.000 mg/L               
+                    Total Iron                         5.800 ug/L               
+                    Total Lead                         0.080 ug/L               
+                    Total Magnesium                  450.000 ug/L               
+                    Total Mercury                      0.060 ug/L               
+                    Total Nickel                       0.200 ug/L               
+                    Total Selenium                     1.500 ug/L               
+                    Total Suspended Solids             4.000 mg/L               
+                    Total Zinc                         4.800 ug/L               
+                    Turbidity                          2.500 NTU                
+
+Mon Dec 06                                                             page   13
+                        Processed Concentration Results
+                      For Stormwater Samples by Sample ID
+
+                                               Concentration                    
+Sample ID           Parameter                         Result Units              
+------------------- -------------------------- ------------- -----              
+St22-01_Stream      Alkalinity                         5.000 mg/L               
+                    Benzene                            0.730 ug/L               
+                    Chromium                           1.900 ug/L               
+                    Dissolved Copper                   0.600 ug/L               
+                    Dissolved Iron                     6.200 ug/L               
+                    Dissolved Lead                     0.080 ug/L               
+                    Dissolved Selenium                 1.500 ug/L               
+                    Dissolved Zinc                     2.500 ug/L               
+                    Nitrate + Nitrite Nitrogen         0.005 mg/L               
+                    Sulfate                            0.150 mg/L               
+                    Total Aluminum                    80.000 ug/L               
+                    Total Antimony                     0.190 ug/L               
+                    Total Arsenic                      0.290 ug/L               
+                    Total Beryllium                    0.610 ug/L               
+                    Total Cadmium                      0.500 ug/L               
+                    Total Copper                       0.600 ug/L               
+                    Total Dissolved Solids            13.000 mg/L               
+                    Total Iron                         7.300 ug/L               
+                    Total Lead                         0.080 ug/L               
+                    Total Magnesium                  140.000 ug/L               
+                    Total Mercury                      0.060 ug/L               
+                    Total Nickel                       0.230 ug/L               
+                    Total Selenium                     1.700 ug/L               
+                    Total Suspended Solids             4.000 mg/L               
+                    Total Zinc                         1.900 ug/L               
+                    Turbidity                          1.500 NTU                
+
+Mon Dec 06                                                             page   14
+                        Processed Concentration Results
+                      For Stormwater Samples by Sample ID
+
+                                               Concentration                    
+Sample ID           Parameter                         Result Units              
+------------------- -------------------------- ------------- -----              
+St22-01_West_OF1    Alkalinity                         2.300 mg/L               
+                    Benzene                            1.100 ug/L               
+                    Chromium                           8.000 ug/L               
+                    Dissolved Copper                   0.600 ug/L               
+                    Dissolved Iron                     5.800 ug/L               
+                    Dissolved Lead                     0.090 ug/L               
+                    Dissolved Selenium                 1.500 ug/L               
+                    Dissolved Zinc                     3.700 ug/L               
+                    Nitrate + Nitrite Nitrogen         0.006 mg/L               
+                    Sulfate                            0.450 mg/L               
+                    Total Aluminum                    80.000 ug/L               
+                    Total Antimony                     0.700 ug/L               
+                    Total Arsenic                      1.500 ug/L               
+                    Total Beryllium                    0.610 ug/L               
+                    Total Cadmium                      0.043 ug/L               
+                    Total Copper                       0.600 ug/L               
+                    Total Dissolved Solids            13.000 mg/L               
+                    Total Iron                         5.800 ug/L               
+                    Total Lead                         0.100 ug/L               
+                    Total Magnesium                  500.000 ug/L               
+                    Total Mercury                      0.060 ug/L               
+                    Total Nickel                       1.200 ug/L               
+                    Total Selenium                     1.800 ug/L               
+                    Total Suspended Solids             4.000 mg/L               
+                    Total Zinc                         4.000 ug/L               
+                    Turbidity                          6.100 NTU                
+
+364 rows selected.
+

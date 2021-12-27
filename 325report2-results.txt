@@ -1,0 +1,248 @@
+
+Wed Dec 08                                                             page    1
+              Processed Outfall Concentration Results by Parameter
+
+                                                      Concentration             
+Parameter                         Sample ID                  Result             
+--------------------------------- ------------------- -------------             
+Alkalinity (mg/L)                 St22-01_East_OF1            8.000             
+                                  St22-01_East_OF2            9.000             
+                                  St22-01_North_OF1          45.000             
+                                  St22-01_West_OF1            2.300             
+*********************************                     -------------             
+avg                                                          16.075             
+                                                                                
+Benzene (ug/L)                    St22-01_East_OF1            0.250             
+                                  St22-01_East_OF2            1.500             
+                                  St22-01_North_OF1           0.250             
+                                  St22-01_West_OF1            1.100             
+*********************************                     -------------             
+avg                                                           0.775             
+                                                                                
+Chromium (ug/L)                   St22-01_East_OF1            1.700             
+                                  St22-01_East_OF2           10.000             
+                                  St22-01_North_OF1           1.900             
+                                  St22-01_West_OF1            8.000             
+*********************************                     -------------             
+avg                                                           5.400             
+                                                                                
+
+Wed Dec 08                                                             page    2
+              Processed Outfall Concentration Results by Parameter
+
+                                                      Concentration             
+Parameter                         Sample ID                  Result             
+--------------------------------- ------------------- -------------             
+Dissolved Copper (ug/L)           St22-01_East_OF1            0.600             
+                                  St22-01_East_OF2            0.600             
+                                  St22-01_North_OF1           0.600             
+                                  St22-01_West_OF1            0.600             
+*********************************                     -------------             
+avg                                                           0.600             
+                                                                                
+Dissolved Iron (ug/L)             St22-01_East_OF1            9.400             
+                                  St22-01_East_OF2            9.700             
+                                  St22-01_North_OF1           6.200             
+                                  St22-01_West_OF1            5.800             
+*********************************                     -------------             
+avg                                                           7.775             
+                                                                                
+Dissolved Lead (ug/L)             St22-01_East_OF1            0.150             
+                                  St22-01_East_OF2            0.090             
+                                  St22-01_North_OF1           0.080             
+                                  St22-01_West_OF1            0.090             
+*********************************                     -------------             
+avg                                                           0.103             
+                                                                                
+
+Wed Dec 08                                                             page    3
+              Processed Outfall Concentration Results by Parameter
+
+                                                      Concentration             
+Parameter                         Sample ID                  Result             
+--------------------------------- ------------------- -------------             
+Dissolved Selenium (ug/L)         St22-01_East_OF1            1.500             
+                                  St22-01_East_OF2            1.500             
+                                  St22-01_North_OF1           1.500             
+                                  St22-01_West_OF1            1.500             
+*********************************                     -------------             
+avg                                                           1.500             
+                                                                                
+Dissolved Zinc (ug/L)             St22-01_East_OF1            4.200             
+                                  St22-01_East_OF2            0.540             
+                                  St22-01_North_OF1           8.900             
+                                  St22-01_West_OF1            3.700             
+*********************************                     -------------             
+avg                                                           4.335             
+                                                                                
+Nitrate + Nitrite Nitrogen (mg/L) St22-01_East_OF1            0.008             
+                                  St22-01_East_OF2            0.009             
+                                  St22-01_North_OF1           0.004             
+                                  St22-01_West_OF1            0.006             
+*********************************                     -------------             
+avg                                                           0.007             
+                                                                                
+
+Wed Dec 08                                                             page    4
+              Processed Outfall Concentration Results by Parameter
+
+                                                      Concentration             
+Parameter                         Sample ID                  Result             
+--------------------------------- ------------------- -------------             
+Sulfate (mg/L)                    St22-01_East_OF1            0.150             
+                                  St22-01_East_OF2            0.290             
+                                  St22-01_North_OF1           0.390             
+                                  St22-01_West_OF1            0.450             
+*********************************                     -------------             
+avg                                                           0.320             
+                                                                                
+Total Aluminum (ug/L)             St22-01_East_OF1           80.000             
+                                  St22-01_East_OF2           80.000             
+                                  St22-01_North_OF1         100.000             
+                                  St22-01_West_OF1           80.000             
+*********************************                     -------------             
+avg                                                          85.000             
+                                                                                
+Total Antimony (ug/L)             St22-01_East_OF1            0.270             
+                                  St22-01_East_OF2            0.500             
+                                  St22-01_North_OF1           0.390             
+                                  St22-01_West_OF1            0.700             
+*********************************                     -------------             
+avg                                                           0.465             
+                                                                                
+
+Wed Dec 08                                                             page    5
+              Processed Outfall Concentration Results by Parameter
+
+                                                      Concentration             
+Parameter                         Sample ID                  Result             
+--------------------------------- ------------------- -------------             
+Total Arsenic (ug/L)              St22-01_East_OF1            0.270             
+                                  St22-01_East_OF2            0.410             
+                                  St22-01_North_OF1           0.570             
+                                  St22-01_West_OF1            1.500             
+*********************************                     -------------             
+avg                                                           0.688             
+                                                                                
+Total Beryllium (ug/L)            St22-01_East_OF1            0.610             
+                                  St22-01_East_OF2            0.610             
+                                  St22-01_North_OF1           0.610             
+                                  St22-01_West_OF1            0.610             
+*********************************                     -------------             
+avg                                                           0.610             
+                                                                                
+Total Cadmium (ug/L)              St22-01_East_OF1            0.029             
+                                  St22-01_East_OF2            0.028             
+                                  St22-01_North_OF1           0.039             
+                                  St22-01_West_OF1            0.043             
+*********************************                     -------------             
+avg                                                           0.035             
+                                                                                
+
+Wed Dec 08                                                             page    6
+              Processed Outfall Concentration Results by Parameter
+
+                                                      Concentration             
+Parameter                         Sample ID                  Result             
+--------------------------------- ------------------- -------------             
+Total Copper (ug/L)               St22-01_East_OF1            0.600             
+                                  St22-01_East_OF2            0.600             
+                                  St22-01_North_OF1           0.600             
+                                  St22-01_West_OF1            0.600             
+*********************************                     -------------             
+avg                                                           0.600             
+                                                                                
+Total Dissolved Solids (mg/L)     St22-01_East_OF1           15.000             
+                                  St22-01_East_OF2           13.000             
+                                  St22-01_North_OF1          14.000             
+                                  St22-01_West_OF1           13.000             
+*********************************                     -------------             
+avg                                                          13.750             
+                                                                                
+Total Iron (ug/L)                 St22-01_East_OF1            6.000             
+                                  St22-01_East_OF2            8.900             
+                                  St22-01_North_OF1           5.800             
+                                  St22-01_West_OF1            5.800             
+*********************************                     -------------             
+avg                                                           6.625             
+                                                                                
+
+Wed Dec 08                                                             page    7
+              Processed Outfall Concentration Results by Parameter
+
+                                                      Concentration             
+Parameter                         Sample ID                  Result             
+--------------------------------- ------------------- -------------             
+Total Lead (ug/L)                 St22-01_East_OF1            0.210             
+                                  St22-01_East_OF2            0.340             
+                                  St22-01_North_OF1           0.080             
+                                  St22-01_West_OF1            0.100             
+*********************************                     -------------             
+avg                                                           0.183             
+                                                                                
+Total Magnesium (ug/L)            St22-01_East_OF1          130.000             
+                                  St22-01_East_OF2          140.000             
+                                  St22-01_North_OF1         450.000             
+                                  St22-01_West_OF1          500.000             
+*********************************                     -------------             
+avg                                                         305.000             
+                                                                                
+Total Mercury (ug/L)              St22-01_East_OF1            0.060             
+                                  St22-01_East_OF2            0.060             
+                                  St22-01_North_OF1           0.060             
+                                  St22-01_West_OF1            0.060             
+*********************************                     -------------             
+avg                                                           0.060             
+                                                                                
+
+Wed Dec 08                                                             page    8
+              Processed Outfall Concentration Results by Parameter
+
+                                                      Concentration             
+Parameter                         Sample ID                  Result             
+--------------------------------- ------------------- -------------             
+Total Nickel (ug/L)               St22-01_East_OF1           12.000             
+                                  St22-01_East_OF2            0.200             
+                                  St22-01_North_OF1           0.200             
+                                  St22-01_West_OF1            1.200             
+*********************************                     -------------             
+avg                                                           3.400             
+                                                                                
+Total Selenium (ug/L)             St22-01_East_OF1            4.300             
+                                  St22-01_East_OF2            1.700             
+                                  St22-01_North_OF1           1.500             
+                                  St22-01_West_OF1            1.800             
+*********************************                     -------------             
+avg                                                           2.325             
+                                                                                
+Total Suspended Solids (mg/L)     St22-01_East_OF1            4.000             
+                                  St22-01_East_OF2            4.000             
+                                  St22-01_North_OF1           4.000             
+                                  St22-01_West_OF1            4.000             
+*********************************                     -------------             
+avg                                                           4.000             
+                                                                                
+
+Wed Dec 08                                                             page    9
+              Processed Outfall Concentration Results by Parameter
+
+                                                      Concentration             
+Parameter                         Sample ID                  Result             
+--------------------------------- ------------------- -------------             
+Total Zinc (ug/L)                 St22-01_East_OF1            1.900             
+                                  St22-01_East_OF2            2.000             
+                                  St22-01_North_OF1           4.800             
+                                  St22-01_West_OF1            4.000             
+*********************************                     -------------             
+avg                                                           3.175             
+                                                                                
+Turbidity (NTU)                   St22-01_East_OF1            4.100             
+                                  St22-01_East_OF2            1.200             
+                                  St22-01_North_OF1           2.500             
+                                  St22-01_West_OF1            6.100             
+*********************************                     -------------             
+avg                                                           3.475             
+                                                                                
+
+104 rows selected.
+

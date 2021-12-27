@@ -1,0 +1,1605 @@
+===========================
+Contents of Parameter Table
+===========================
+
+PARAM_NAME                     PARAM_UNITS PARAM_TEST_METH PARAM_PRESERV        
+------------------------------ ----------- --------------- -------------        
+Total Aluminum                 ug/L        200.5, Rev. 4.2 True                 
+Total Antimony                 ug/L        200.5, Rev. 4.2 True                 
+Total Arsenic                  ug/L        200.5, Rev. 4.2 True                 
+Benzene                        ug/L        524.4           True                 
+Total Beryllium                ug/L        200.5, Rev. 4.2 True                 
+Total Cadmium                  ug/L        200.5, Rev. 4.2 True                 
+Chromium                       ug/L        200.5, Rev. 4.2 True                 
+Dissolved Copper               ug/L        D1688-07 A      True                 
+Total Copper                   ug/L        D1688-07 A      True                 
+Dissolved Iron                 ug/L        200.5, Rev. 4.2 True                 
+Total Iron                     ug/L        200.5, Rev. 4.2 True                 
+
+PARAM_NAME                     PARAM_UNITS PARAM_TEST_METH PARAM_PRESERV        
+------------------------------ ----------- --------------- -------------        
+Dissolved Lead                 ug/L        200.5, Rev. 4.2 True                 
+Total Lead                     ug/L        200.5, Rev. 4.2 True                 
+Total Magnesium                ug/L        200.5, Rev. 4.2 True                 
+Total Mercury                  ug/L        D3223-12        True                 
+Total Nickel                   ug/L        200.5, Rev. 4.2 True                 
+Nitrate + Nitrite Nitrogen     mg/L        D6508-15        True                 
+Total Selenium                 ug/L        200.5, Rev. 4.2 True                 
+Dissolved Selenium             ug/L        200.5, Rev. 4.2 True                 
+Sulfate                        mg/L        300.0           False                
+Total Zinc                     ug/L        200.5, Rev. 4.2 True                 
+Dissolved Zinc                 ug/L        200.5, Rev. 4.2 True                 
+
+PARAM_NAME                     PARAM_UNITS PARAM_TEST_METH PARAM_PRESERV        
+------------------------------ ----------- --------------- -------------        
+Alkalinity                     mg/L        2320 B          False                
+Total Dissolved Solids         mg/L        2540 C          False                
+Total Suspended Solids         mg/L        160.2           False                
+Turbidity                      NTU         180.1           False                
+
+26 rows selected.
+
+=======================
+Contents of Storm Table
+=======================
+
+STORM_ID STORM_START_TIME STORM_END_TIME   STORM_DEPTH                          
+-------- ---------------- ---------------- -----------                          
+2020-01  09-15-2019 05:10 09-16-2019 03:30         1.2                          
+2020-02  11-03-2019 13:00 11-04-2019 22:40          .9                          
+2020-03  02-05-2020 05:00 02-05-2020 23:00          .8                          
+2020-04  03-10-2020 02:40 03-11-2020 03:00          .9                          
+2021-01  11-17-2020 16:50 11-18-2020 15:20         1.4                          
+2021-02  12-20-2020 10:00 12-21-2020 05:00          .8                          
+2021-03  01-26-2021 08:20 01-26-2021 23:50          .7                          
+2021-04  02-08-2021 11:40 02-09-2021 15:20         1.2                          
+2022-01  09-19-2021 07:30 09-20-2021 06:20           1                          
+2022-02  11-14-2021 14:50 11-16-2021 04:00         1.7                          
+2022-03  11-25-2021 18:00 11-26-2021 21:40         1.3                          
+
+11 rows selected.
+
+================================
+Contents of Stormwater_BMP Table
+================================
+
+BMP_NAME                     BMP_TYPE         BMP_LAT BMP_LONG BMP_DATE_INSTAL  
+---------------------------- ---------------- ------- -------- ---------------  
+North Tributary Infiltration Infiltration Bas  40.395 -124.015 07-18-2016       
+Valley Road Infiltration Tre Infiltration Tre  40.389 -124.025 08-17-2017       
+South Vegetated Swale        Vegetated Swale   40.385 -124.034 08-20-2017       
+West Tributary Bioretention  Bioretention Bas  40.393 -124.039 06-25-2018       
+Valley Road Bioretention Bas Bioretention Bas  40.390 -124.023 08-18-2018       
+East Tributary Wetland       Artificial Wetla  40.390 -124.013 07-20-2020       
+Quad Road Infiltration Basin Infiltration Bas  40.394 -124.030 06-05-2021       
+
+7 rows selected.
+
+=============================
+Contents of Maintenance Table
+=============================
+
+BMP_NAME                           MAINTEN_DATE                                 
+---------------------------------- ------------                                 
+East Tributary Wetland             09-18-2021                                   
+North Tributary Infiltration Basin 08-02-2017                                   
+North Tributary Infiltration Basin 08-10-2018                                   
+North Tributary Infiltration Basin 07-17-2019                                   
+North Tributary Infiltration Basin 12-20-2019                                   
+North Tributary Infiltration Basin 03-17-2020                                   
+North Tributary Infiltration Basin 08-18-2021                                   
+South Vegetated Swale              08-12-2018                                   
+South Vegetated Swale              07-18-2019                                   
+South Vegetated Swale              03-18-2020                                   
+Valley Road Bioretention Basin     08-15-2019                                   
+
+BMP_NAME                           MAINTEN_DATE                                 
+---------------------------------- ------------                                 
+Valley Road Bioretention Basin     08-06-2020                                   
+Valley Road Bioretention Basin     08-20-2021                                   
+Valley Road Infiltration Trench    08-11-2018                                   
+Valley Road Infiltration Trench    01-30-2019                                   
+Valley Road Infiltration Trench    05-05-2019                                   
+Valley Road Infiltration Trench    01-15-2020                                   
+Valley Road Infiltration Trench    08-04-2020                                   
+Valley Road Infiltration Trench    01-20-2021                                   
+Valley Road Infiltration Trench    08-19-2021                                   
+West Tributary Bioretention Basin  08-14-2019                                   
+West Tributary Bioretention Basin  08-05-2020                                   
+
+BMP_NAME                           MAINTEN_DATE                                 
+---------------------------------- ------------                                 
+West Tributary Bioretention Basin  08-19-2021                                   
+
+23 rows selected.
+
+===================================
+Contents of Sampling_Location Table
+===================================
+
+                                                                      SAMP_LOC_ 
+SAMP_LOC_NAME SAMP_LOC_TYPE SAMP_LOC_LAT SAMP_LOC_LONG SAMP_LOC_DRAIN IMP_DRAIN 
+------------- ------------- ------------ ------------- -------------- --------- 
+BMP_NTIB_US   BMP                 40.395      -124.014          40.20     32.16 
+BMP_VRIT_US   BMP                 40.388      -124.026          18.41     17.49 
+BMP_SVS_US    BMP                 40.386      -124.034          42.60     31.95 
+BMP_WTBB_US   BMP                 40.393      -124.039          82.91     66.33 
+BMP_VRBB_US   BMP                 40.391      -124.023          85.37     64.03 
+BMP_ETW_US    BMP                 40.391      -124.013          13.18     12.52 
+BMP_QRIB_US   BMP                 40.394      -124.029          57.32     54.46 
+BMP_SVS_DS    BMP                 40.384      -124.034          42.60     31.95 
+BMP_ETW_DS    BMP                 40.389      -124.013          13.18     12.52 
+West_OF1      Outfall             40.382      -124.034          70.79     42.47 
+
+                                                                      SAMP_LOC_ 
+SAMP_LOC_NAME SAMP_LOC_TYPE SAMP_LOC_LAT SAMP_LOC_LONG SAMP_LOC_DRAIN IMP_DRAIN 
+------------- ------------- ------------ ------------- -------------- --------- 
+North_OF1     Outfall             40.392      -124.017          31.31     12.52 
+East_OF1      Outfall             40.388      -124.013          41.61     24.97 
+East_OF2      Outfall             40.381      -124.026         142.71     49.95 
+Stream        Stream              40.377      -124.032                          
+
+14 rows selected.
+
+=======================================
+Contents of BMP_Sampling_Location Table
+=======================================
+
+SAMP_LOC_NAME BMP_NAME                           UPST_OR_DOWNST                 
+------------- ---------------------------------- --------------                 
+BMP_NTIB_US   North Tributary Infiltration Basin upstream                       
+BMP_VRIT_US   Valley Road Infiltration Trench    upstream                       
+BMP_SVS_US    South Vegetated Swale              upstream                       
+BMP_WTBB_US   West Tributary Bioretention Basin  upstream                       
+BMP_VRBB_US   Valley Road Bioretention Basin     upstream                       
+BMP_ETW_US    East Tributary Wetland             upstream                       
+BMP_QRIB_US   Quad Road Infiltration Basin       upstream                       
+BMP_SVS_DS    South Vegetated Swale              downstream                     
+BMP_ETW_DS    East Tributary Wetland             downstream                     
+
+9 rows selected.
+
+========================
+Contents of Sample Table
+========================
+
+STORM_ID SAMPLE_ID               SAMPLE_TYPE SAMPLE_TIME                        
+-------- ----------------------- ----------- ----------------                   
+2022-01  St22-01_BMP_WTBB_US_dup Stormwater  09-19-2021 09:40                   
+2022-01  St22-01_BMP_VRBB_US     Stormwater  09-19-2021 10:20                   
+2022-01  St22-01_BMP_ETW_US      Stormwater  09-19-2021 11:00                   
+2022-01  St22-01_BMP_QRIB_US     Stormwater  09-19-2021 11:20                   
+2022-01  St22-01_BMP_SVS_DS      Stormwater  09-19-2021 11:40                   
+2022-01  St22-01_BMP_ETW_DS      Stormwater  09-19-2021 12:00                   
+2022-01  St22-01_West_OF1        Stormwater  09-19-2021 12:20                   
+2022-01  St22-01_North_OF1       Stormwater  09-19-2021 12:40                   
+2022-01  St22-01_East_OF1        Stormwater  09-19-2021 13:00                   
+2022-01  St22-01_East_OF2        Stormwater  09-19-2021 13:20                   
+2022-01  St22-01_Stream          Stormwater  09-19-2021 13:40                   
+
+STORM_ID SAMPLE_ID               SAMPLE_TYPE SAMPLE_TIME                        
+-------- ----------------------- ----------- ----------------                   
+2022-02  St22-02_blank           Blank       11-15-2021 09:50                   
+2022-02  St22-02_BMP_NTIB_US     Stormwater  11-15-2021 08:10                   
+2022-02  St22-02_BMP_NTIB_US_dup Stormwater  11-15-2021 08:20                   
+2022-02  St22-02_BMP_VRIT_US     Stormwater  11-15-2021 08:50                   
+2022-02  St22-02_BMP_SVS_US      Stormwater  11-15-2021 09:20                   
+2022-02  St22-02_BMP_WTBB_US     Stormwater  11-15-2021 09:40                   
+2022-02  St22-02_BMP_VRBB_US     Stormwater  11-15-2021 10:20                   
+2022-02  St22-02_BMP_ETW_US      Stormwater  11-15-2021 11:00                   
+2022-02  St22-02_BMP_QRIB_US     Stormwater  11-15-2021 11:20                   
+2022-02  St22-02_BMP_SVS_DS      Stormwater  11-15-2021 11:40                   
+2022-02  St22-02_BMP_ETW_DS      Stormwater  11-15-2021 12:00                   
+
+STORM_ID SAMPLE_ID               SAMPLE_TYPE SAMPLE_TIME                        
+-------- ----------------------- ----------- ----------------                   
+2022-02  St22-02_West_OF1        Stormwater  11-15-2021 12:20                   
+2022-02  St22-02_North_OF1       Stormwater  11-15-2021 12:40                   
+2022-02  St22-02_East_OF1        Stormwater  11-15-2021 13:00                   
+2022-02  St22-02_East_OF2        Stormwater  11-15-2021 13:20                   
+2022-02  St22-02_Stream          Stormwater  11-15-2021 13:40                   
+2022-03  St22-03_blank           Blank       11-26-2021 09:50                   
+2022-03  St22-03_BMP_NTIB_US     Stormwater  11-26-2021 08:10                   
+2022-03  St22-03_BMP_VRIT_US     Stormwater  11-26-2021 08:20                   
+2022-03  St22-03_BMP_SVS_US      Stormwater  11-26-2021 08:50                   
+2022-03  St22-03_BMP_WTBB_US     Stormwater  11-26-2021 09:20                   
+2022-03  St22-03_BMP_VRBB_US     Stormwater  11-26-2021 09:40                   
+
+STORM_ID SAMPLE_ID               SAMPLE_TYPE SAMPLE_TIME                        
+-------- ----------------------- ----------- ----------------                   
+2022-03  St22-03_BMP_ETW_US      Stormwater  11-26-2021 10:20                   
+2022-03  St22-03_BMP_QRIB_US     Stormwater  11-26-2021 11:00                   
+2022-03  St22-03_BMP_QRIB_US_dup Stormwater  11-26-2021 11:20                   
+2022-03  St22-03_BMP_SVS_DS      Stormwater  11-26-2021 11:40                   
+2022-03  St22-03_BMP_ETW_DS      Stormwater  11-26-2021 12:00                   
+2022-03  St22-03_West_OF1        Stormwater  11-26-2021 12:20                   
+2022-03  St22-03_North_OF1       Stormwater  11-26-2021 12:40                   
+2022-03  St22-03_East_OF1        Stormwater  11-26-2021 13:00                   
+2022-03  St22-03_East_OF2        Stormwater  11-26-2021 13:20                   
+2022-03  St22-03_Stream          Stormwater  11-26-2021 13:40                   
+2020-01  St20-01_blank           Blank       09-15-2019 09:50                   
+
+STORM_ID SAMPLE_ID               SAMPLE_TYPE SAMPLE_TIME                        
+-------- ----------------------- ----------- ----------------                   
+2020-01  St20-01_BMP_NTIB_US     Stormwater  09-15-2019 08:10                   
+2020-01  St20-01_BMP_NTIB_US_dup Stormwater  09-15-2019 08:20                   
+2020-01  St20-01_BMP_VRIT_US     Stormwater  09-15-2019 08:50                   
+2020-01  St20-01_BMP_SVS_US      Stormwater  09-15-2019 09:20                   
+2020-01  St20-01_BMP_WTBB_US     Stormwater  09-15-2019 09:40                   
+2020-01  St20-01_BMP_VRBB_US     Stormwater  09-15-2019 10:20                   
+2020-01  St20-01_BMP_ETW_US      Stormwater  09-15-2019 11:00                   
+2020-01  St20-01_BMP_QRIB_US     Stormwater  09-15-2019 11:20                   
+2020-01  St20-01_BMP_SVS_DS      Stormwater  09-15-2019 11:40                   
+2020-01  St20-01_BMP_ETW_DS      Stormwater  09-15-2019 12:00                   
+2020-01  St20-01_West_OF1        Stormwater  09-15-2019 12:20                   
+
+STORM_ID SAMPLE_ID               SAMPLE_TYPE SAMPLE_TIME                        
+-------- ----------------------- ----------- ----------------                   
+2020-01  St20-01_North_OF1       Stormwater  09-15-2019 12:40                   
+2020-01  St20-01_East_OF1        Stormwater  09-15-2019 13:00                   
+2020-01  St20-01_East_OF2        Stormwater  09-15-2019 13:20                   
+2020-01  St20-01_Stream          Stormwater  09-15-2019 13:40                   
+2020-02  St20-02_blank           Blank       11-04-2019 09:50                   
+2020-02  St20-02_BMP_NTIB_US     Stormwater  11-04-2019 08:10                   
+2020-02  St20-02_BMP_VRIT_US     Stormwater  11-04-2019 08:20                   
+2020-02  St20-02_BMP_SVS_US      Stormwater  11-04-2019 08:50                   
+2020-02  St20-02_BMP_WTBB_US     Stormwater  11-04-2019 09:20                   
+2020-02  St20-02_BMP_WTBB_US_dup Stormwater  11-04-2019 09:40                   
+2020-02  St20-02_BMP_VRBB_US     Stormwater  11-04-2019 10:20                   
+
+STORM_ID SAMPLE_ID               SAMPLE_TYPE SAMPLE_TIME                        
+-------- ----------------------- ----------- ----------------                   
+2020-02  St20-02_BMP_ETW_US      Stormwater  11-04-2019 11:00                   
+2020-02  St20-02_BMP_QRIB_US     Stormwater  11-04-2019 11:20                   
+2020-02  St20-02_BMP_SVS_DS      Stormwater  11-04-2019 11:40                   
+2020-02  St20-02_BMP_ETW_DS      Stormwater  11-04-2019 12:00                   
+2020-02  St20-02_West_OF1        Stormwater  11-04-2019 12:20                   
+2020-02  St20-02_North_OF1       Stormwater  11-04-2019 12:40                   
+2020-02  St20-02_East_OF1        Stormwater  11-04-2019 13:00                   
+2020-02  St20-02_East_OF2        Stormwater  11-04-2019 13:20                   
+2020-02  St20-02_Stream          Stormwater  11-04-2019 13:40                   
+2020-03  St20-03_blank           Blank       02-05-2020 09:50                   
+2020-03  St20-03_BMP_NTIB_US     Stormwater  02-05-2020 08:10                   
+
+STORM_ID SAMPLE_ID               SAMPLE_TYPE SAMPLE_TIME                        
+-------- ----------------------- ----------- ----------------                   
+2020-03  St20-03_BMP_VRIT_US     Stormwater  02-05-2020 08:20                   
+2020-03  St20-03_BMP_SVS_US      Stormwater  02-05-2020 08:50                   
+2020-03  St20-03_BMP_WTBB_US     Stormwater  02-05-2020 09:20                   
+2020-03  St20-03_BMP_VRBB_US     Stormwater  02-05-2020 09:40                   
+2020-03  St20-03_BMP_VRBB_US_dup Stormwater  02-05-2020 10:20                   
+2020-03  St20-03_BMP_ETW_US      Stormwater  02-05-2020 11:00                   
+2020-03  St20-03_BMP_QRIB_US     Stormwater  02-05-2020 11:20                   
+2020-03  St20-03_BMP_SVS_DS      Stormwater  02-05-2020 11:40                   
+2020-03  St20-03_BMP_ETW_DS      Stormwater  02-05-2020 12:00                   
+2020-03  St20-03_West_OF1        Stormwater  02-05-2020 12:20                   
+2020-03  St20-03_North_OF1       Stormwater  02-05-2020 12:40                   
+
+STORM_ID SAMPLE_ID               SAMPLE_TYPE SAMPLE_TIME                        
+-------- ----------------------- ----------- ----------------                   
+2020-03  St20-03_East_OF1        Stormwater  02-05-2020 13:00                   
+2020-03  St20-03_East_OF2        Stormwater  02-05-2020 13:20                   
+2020-03  St20-03_Stream          Stormwater  02-05-2020 13:40                   
+2020-04  St20-04_blank           Blank       03-10-2020 09:50                   
+2020-04  St20-04_BMP_NTIB_US     Stormwater  03-10-2020 08:10                   
+2020-04  St20-04_BMP_VRIT_US     Stormwater  03-10-2020 08:20                   
+2020-04  St20-04_BMP_SVS_US      Stormwater  03-10-2020 08:50                   
+2020-04  St20-04_BMP_WTBB_US     Stormwater  03-10-2020 09:20                   
+2020-04  St20-04_BMP_VRBB_US     Stormwater  03-10-2020 09:40                   
+2020-04  St20-04_BMP_ETW_US      Stormwater  03-10-2020 10:20                   
+2020-04  St20-04_BMP_QRIB_US     Stormwater  03-10-2020 11:00                   
+
+STORM_ID SAMPLE_ID               SAMPLE_TYPE SAMPLE_TIME                        
+-------- ----------------------- ----------- ----------------                   
+2020-04  St20-04_BMP_QRIB_US_dup Stormwater  03-10-2020 11:20                   
+2020-04  St20-04_BMP_SVS_DS      Stormwater  03-10-2020 11:40                   
+2020-04  St20-04_BMP_ETW_DS      Stormwater  03-10-2020 12:00                   
+2020-04  St20-04_West_OF1        Stormwater  03-10-2020 12:20                   
+2020-04  St20-04_North_OF1       Stormwater  03-10-2020 12:40                   
+2020-04  St20-04_East_OF1        Stormwater  03-10-2020 13:00                   
+2020-04  St20-04_East_OF2        Stormwater  03-10-2020 13:20                   
+2020-04  St20-04_Stream          Stormwater  03-10-2020 13:40                   
+2021-01  St21-01_blank           Blank       11-18-2020 09:50                   
+2021-01  St21-01_BMP_NTIB_US     Stormwater  11-18-2020 08:10                   
+2021-01  St21-01_BMP_VRIT_US     Stormwater  11-18-2020 08:20                   
+
+STORM_ID SAMPLE_ID               SAMPLE_TYPE SAMPLE_TIME                        
+-------- ----------------------- ----------- ----------------                   
+2021-01  St21-01_BMP_SVS_US      Stormwater  11-18-2020 08:50                   
+2021-01  St21-01_BMP_WTBB_US     Stormwater  11-18-2020 09:20                   
+2021-01  St21-01_BMP_VRBB_US     Stormwater  11-18-2020 09:40                   
+2021-01  St21-01_BMP_ETW_US      Stormwater  11-18-2020 10:20                   
+2021-01  St21-01_BMP_QRIB_US     Stormwater  11-18-2020 11:00                   
+2021-01  St21-01_BMP_SVS_DS      Stormwater  11-18-2020 11:20                   
+2021-01  St21-01_BMP_ETW_DS      Stormwater  11-18-2020 11:40                   
+2021-01  St21-01_West_OF1        Stormwater  11-18-2020 12:00                   
+2021-01  St21-01_West_OF1_dup    Stormwater  11-18-2020 12:20                   
+2021-01  St21-01_North_OF1       Stormwater  11-18-2020 12:40                   
+2021-01  St21-01_East_OF1        Stormwater  11-18-2020 13:00                   
+
+STORM_ID SAMPLE_ID               SAMPLE_TYPE SAMPLE_TIME                        
+-------- ----------------------- ----------- ----------------                   
+2021-01  St21-01_East_OF2        Stormwater  11-18-2020 13:20                   
+2021-01  St21-01_Stream          Stormwater  11-18-2020 13:40                   
+2021-02  St21-02_blank           Blank       12-20-2020 12:50                   
+2021-02  St21-02_BMP_NTIB_US     Stormwater  12-20-2020 11:10                   
+2021-02  St21-02_BMP_VRIT_US     Stormwater  12-20-2020 11:20                   
+2021-02  St21-02_BMP_SVS_US      Stormwater  12-20-2020 11:50                   
+2021-02  St21-02_BMP_WTBB_US     Stormwater  12-20-2020 12:20                   
+2021-02  St21-02_BMP_VRBB_US     Stormwater  12-20-2020 12:40                   
+2021-02  St21-02_BMP_ETW_US      Stormwater  12-20-2020 13:20                   
+2021-02  St21-02_BMP_QRIB_US     Stormwater  12-20-2020 14:00                   
+2021-02  St21-02_BMP_SVS_DS      Stormwater  12-20-2020 14:20                   
+
+STORM_ID SAMPLE_ID               SAMPLE_TYPE SAMPLE_TIME                        
+-------- ----------------------- ----------- ----------------                   
+2021-02  St21-02_BMP_ETW_DS      Stormwater  12-20-2020 14:40                   
+2021-02  St21-02_West_OF1        Stormwater  12-20-2020 15:00                   
+2021-02  St21-02_North_OF1       Stormwater  12-20-2020 15:20                   
+2021-02  St21-02_East_OF1        Stormwater  12-20-2020 15:40                   
+2021-02  St21-02_East_OF2        Stormwater  12-20-2020 16:00                   
+2021-02  St21-02_East_OF2_dup    Stormwater  12-20-2020 16:20                   
+2021-02  St21-02_Stream          Stormwater  12-20-2020 16:40                   
+2021-03  St21-03_blank           Blank       01-21-2020 12:50                   
+2021-03  St21-03_BMP_NTIB_US     Stormwater  01-21-2020 11:10                   
+2021-03  St21-03_BMP_VRIT_US     Stormwater  01-21-2020 11:20                   
+2021-03  St21-03_BMP_SVS_US      Stormwater  01-21-2020 11:50                   
+
+STORM_ID SAMPLE_ID               SAMPLE_TYPE SAMPLE_TIME                        
+-------- ----------------------- ----------- ----------------                   
+2021-03  St21-03_BMP_WTBB_US     Stormwater  01-21-2020 12:20                   
+2021-03  St21-03_BMP_VRBB_US     Stormwater  01-21-2020 12:40                   
+2021-03  St21-03_BMP_ETW_US      Stormwater  01-21-2020 13:20                   
+2021-03  St21-03_BMP_QRIB_US     Stormwater  01-21-2020 14:00                   
+2021-03  St21-03_BMP_SVS_DS      Stormwater  01-21-2020 14:20                   
+2021-03  St21-03_BMP_ETW_DS      Stormwater  01-21-2020 14:40                   
+2021-03  St21-03_West_OF1        Stormwater  01-21-2020 15:00                   
+2021-03  St21-03_North_OF1       Stormwater  01-21-2020 15:20                   
+2021-03  St21-03_East_OF1        Stormwater  01-21-2020 15:40                   
+2021-03  St21-03_East_OF1_dup    Stormwater  01-21-2020 16:00                   
+2021-03  St21-03_East_OF2        Stormwater  01-21-2020 16:20                   
+
+STORM_ID SAMPLE_ID               SAMPLE_TYPE SAMPLE_TIME                        
+-------- ----------------------- ----------- ----------------                   
+2021-03  St21-03_Stream          Stormwater  01-21-2020 16:40                   
+2021-04  St21-04_blank           Blank       02-09-2021 09:50                   
+2021-04  St21-04_BMP_NTIB_US     Stormwater  02-09-2021 08:10                   
+2021-04  St21-04_BMP_NTIB_US_dup Stormwater  02-09-2021 08:20                   
+2021-04  St21-04_BMP_VRIT_US     Stormwater  02-09-2021 08:50                   
+2021-04  St21-04_BMP_SVS_US      Stormwater  02-09-2021 09:20                   
+2021-04  St21-04_BMP_WTBB_US     Stormwater  02-09-2021 09:40                   
+2021-04  St21-04_BMP_VRBB_US     Stormwater  02-09-2021 10:20                   
+2021-04  St21-04_BMP_ETW_US      Stormwater  02-09-2021 11:00                   
+2021-04  St21-04_BMP_QRIB_US     Stormwater  02-09-2021 11:20                   
+2021-04  St21-04_BMP_SVS_DS      Stormwater  02-09-2021 11:40                   
+
+STORM_ID SAMPLE_ID               SAMPLE_TYPE SAMPLE_TIME                        
+-------- ----------------------- ----------- ----------------                   
+2021-04  St21-04_BMP_ETW_DS      Stormwater  02-09-2021 12:00                   
+2021-04  St21-04_West_OF1        Stormwater  02-09-2021 12:20                   
+2021-04  St21-04_North_OF1       Stormwater  02-09-2021 12:40                   
+2021-04  St21-04_East_OF1        Stormwater  02-09-2021 13:00                   
+2021-04  St21-04_East_OF2        Stormwater  02-09-2021 13:20                   
+2021-04  St21-04_Stream          Stormwater  02-09-2021 13:40                   
+2022-01  St22-01_blank           Blank       09-19-2021 09:50                   
+2022-01  St22-01_BMP_NTIB_US     Stormwater  09-19-2021 08:10                   
+2022-01  St22-01_BMP_VRIT_US     Stormwater  09-19-2021 08:20                   
+2022-01  St22-01_BMP_SVS_US      Stormwater  09-19-2021 08:50                   
+2022-01  St22-01_BMP_WTBB_US     Stormwater  09-19-2021 09:20                   
+
+176 rows selected.
+
+===================================
+Contents of Stormwater_Sample Table
+===================================
+
+SAMP_LOC_NAME SAMPLE_ID               SAMPLE_DUPLICATE                          
+------------- ----------------------- -----------------------                   
+BMP_NTIB_US   St20-01_BMP_NTIB_US_dup                                           
+BMP_NTIB_US   St20-01_BMP_NTIB_US     St20-01_BMP_NTIB_US_dup                   
+BMP_VRIT_US   St20-01_BMP_VRIT_US                                               
+BMP_SVS_US    St20-01_BMP_SVS_US                                                
+BMP_WTBB_US   St20-01_BMP_WTBB_US                                               
+BMP_VRBB_US   St20-01_BMP_VRBB_US                                               
+BMP_ETW_US    St20-01_BMP_ETW_US                                                
+BMP_QRIB_US   St20-01_BMP_QRIB_US                                               
+BMP_SVS_DS    St20-01_BMP_SVS_DS                                                
+BMP_ETW_DS    St20-01_BMP_ETW_DS                                                
+West_OF1      St20-01_West_OF1                                                  
+
+SAMP_LOC_NAME SAMPLE_ID               SAMPLE_DUPLICATE                          
+------------- ----------------------- -----------------------                   
+North_OF1     St20-01_North_OF1                                                 
+East_OF1      St20-01_East_OF1                                                  
+East_OF2      St20-01_East_OF2                                                  
+Stream        St20-01_Stream                                                    
+BMP_NTIB_US   St20-02_BMP_NTIB_US                                               
+BMP_VRIT_US   St20-02_BMP_VRIT_US                                               
+BMP_SVS_US    St20-02_BMP_SVS_US                                                
+BMP_WTBB_US   St20-02_BMP_WTBB_US_dup                                           
+BMP_WTBB_US   St20-02_BMP_WTBB_US     St20-02_BMP_WTBB_US_dup                   
+BMP_VRBB_US   St20-02_BMP_VRBB_US                                               
+BMP_ETW_US    St20-02_BMP_ETW_US                                                
+
+SAMP_LOC_NAME SAMPLE_ID               SAMPLE_DUPLICATE                          
+------------- ----------------------- -----------------------                   
+BMP_QRIB_US   St20-02_BMP_QRIB_US                                               
+BMP_SVS_DS    St20-02_BMP_SVS_DS                                                
+BMP_ETW_DS    St20-02_BMP_ETW_DS                                                
+West_OF1      St20-02_West_OF1                                                  
+North_OF1     St20-02_North_OF1                                                 
+East_OF1      St20-02_East_OF1                                                  
+East_OF2      St20-02_East_OF2                                                  
+Stream        St20-02_Stream                                                    
+BMP_NTIB_US   St20-03_BMP_NTIB_US                                               
+BMP_VRIT_US   St20-03_BMP_VRIT_US                                               
+BMP_SVS_US    St20-03_BMP_SVS_US                                                
+
+SAMP_LOC_NAME SAMPLE_ID               SAMPLE_DUPLICATE                          
+------------- ----------------------- -----------------------                   
+BMP_WTBB_US   St20-03_BMP_WTBB_US                                               
+BMP_VRBB_US   St20-03_BMP_VRBB_US_dup                                           
+BMP_VRBB_US   St20-03_BMP_VRBB_US     St20-03_BMP_VRBB_US_dup                   
+BMP_ETW_US    St20-03_BMP_ETW_US                                                
+BMP_QRIB_US   St20-03_BMP_QRIB_US                                               
+BMP_SVS_DS    St20-03_BMP_SVS_DS                                                
+BMP_ETW_DS    St20-03_BMP_ETW_DS                                                
+West_OF1      St20-03_West_OF1                                                  
+North_OF1     St20-03_North_OF1                                                 
+East_OF1      St20-03_East_OF1                                                  
+East_OF2      St20-03_East_OF2                                                  
+
+SAMP_LOC_NAME SAMPLE_ID               SAMPLE_DUPLICATE                          
+------------- ----------------------- -----------------------                   
+Stream        St20-03_Stream                                                    
+BMP_NTIB_US   St20-04_BMP_NTIB_US                                               
+BMP_VRIT_US   St20-04_BMP_VRIT_US                                               
+BMP_SVS_US    St20-04_BMP_SVS_US                                                
+BMP_WTBB_US   St20-04_BMP_WTBB_US                                               
+BMP_VRBB_US   St20-04_BMP_VRBB_US                                               
+BMP_ETW_US    St20-04_BMP_ETW_US                                                
+BMP_QRIB_US   St20-04_BMP_QRIB_US_dup                                           
+BMP_QRIB_US   St20-04_BMP_QRIB_US     St20-04_BMP_QRIB_US_dup                   
+BMP_SVS_DS    St20-04_BMP_SVS_DS                                                
+BMP_ETW_DS    St20-04_BMP_ETW_DS                                                
+
+SAMP_LOC_NAME SAMPLE_ID               SAMPLE_DUPLICATE                          
+------------- ----------------------- -----------------------                   
+West_OF1      St20-04_West_OF1                                                  
+North_OF1     St20-04_North_OF1                                                 
+East_OF1      St20-04_East_OF1                                                  
+East_OF2      St20-04_East_OF2                                                  
+Stream        St20-04_Stream                                                    
+BMP_NTIB_US   St21-01_BMP_NTIB_US                                               
+BMP_VRIT_US   St21-01_BMP_VRIT_US                                               
+BMP_SVS_US    St21-01_BMP_SVS_US                                                
+BMP_WTBB_US   St21-01_BMP_WTBB_US                                               
+BMP_VRBB_US   St21-01_BMP_VRBB_US                                               
+BMP_ETW_US    St21-01_BMP_ETW_US                                                
+
+SAMP_LOC_NAME SAMPLE_ID               SAMPLE_DUPLICATE                          
+------------- ----------------------- -----------------------                   
+BMP_QRIB_US   St21-01_BMP_QRIB_US                                               
+BMP_SVS_DS    St21-01_BMP_SVS_DS                                                
+BMP_ETW_DS    St21-01_BMP_ETW_DS                                                
+West_OF1      St21-01_West_OF1_dup                                              
+West_OF1      St21-01_West_OF1        St21-01_West_OF1_dup                      
+North_OF1     St21-01_North_OF1                                                 
+East_OF1      St21-01_East_OF1                                                  
+East_OF2      St21-01_East_OF2                                                  
+Stream        St21-01_Stream                                                    
+BMP_NTIB_US   St21-02_BMP_NTIB_US                                               
+BMP_VRIT_US   St21-02_BMP_VRIT_US                                               
+
+SAMP_LOC_NAME SAMPLE_ID               SAMPLE_DUPLICATE                          
+------------- ----------------------- -----------------------                   
+BMP_SVS_US    St21-02_BMP_SVS_US                                                
+BMP_WTBB_US   St21-02_BMP_WTBB_US                                               
+BMP_VRBB_US   St21-02_BMP_VRBB_US                                               
+BMP_ETW_US    St21-02_BMP_ETW_US                                                
+BMP_QRIB_US   St21-02_BMP_QRIB_US                                               
+BMP_SVS_DS    St21-02_BMP_SVS_DS                                                
+BMP_ETW_DS    St21-02_BMP_ETW_DS                                                
+West_OF1      St21-02_West_OF1                                                  
+North_OF1     St21-02_North_OF1                                                 
+East_OF1      St21-02_East_OF1                                                  
+East_OF2      St21-02_East_OF2_dup                                              
+
+SAMP_LOC_NAME SAMPLE_ID               SAMPLE_DUPLICATE                          
+------------- ----------------------- -----------------------                   
+East_OF2      St21-02_East_OF2        St21-02_East_OF2_dup                      
+Stream        St21-02_Stream                                                    
+BMP_NTIB_US   St21-03_BMP_NTIB_US                                               
+BMP_VRIT_US   St21-03_BMP_VRIT_US                                               
+BMP_SVS_US    St21-03_BMP_SVS_US                                                
+BMP_WTBB_US   St21-03_BMP_WTBB_US                                               
+BMP_VRBB_US   St21-03_BMP_VRBB_US                                               
+BMP_ETW_US    St21-03_BMP_ETW_US                                                
+BMP_QRIB_US   St21-03_BMP_QRIB_US                                               
+BMP_SVS_DS    St21-03_BMP_SVS_DS                                                
+BMP_ETW_DS    St21-03_BMP_ETW_DS                                                
+
+SAMP_LOC_NAME SAMPLE_ID               SAMPLE_DUPLICATE                          
+------------- ----------------------- -----------------------                   
+West_OF1      St21-03_West_OF1                                                  
+North_OF1     St21-03_North_OF1                                                 
+East_OF1      St21-03_East_OF1_dup                                              
+East_OF1      St21-03_East_OF1        St21-03_East_OF1_dup                      
+East_OF2      St21-03_East_OF2                                                  
+Stream        St21-03_Stream                                                    
+BMP_NTIB_US   St21-04_BMP_NTIB_US_dup                                           
+BMP_NTIB_US   St21-04_BMP_NTIB_US     St21-04_BMP_NTIB_US_dup                   
+BMP_VRIT_US   St21-04_BMP_VRIT_US                                               
+BMP_SVS_US    St21-04_BMP_SVS_US                                                
+BMP_WTBB_US   St21-04_BMP_WTBB_US                                               
+
+SAMP_LOC_NAME SAMPLE_ID               SAMPLE_DUPLICATE                          
+------------- ----------------------- -----------------------                   
+BMP_VRBB_US   St21-04_BMP_VRBB_US                                               
+BMP_ETW_US    St21-04_BMP_ETW_US                                                
+BMP_QRIB_US   St21-04_BMP_QRIB_US                                               
+BMP_SVS_DS    St21-04_BMP_SVS_DS                                                
+BMP_ETW_DS    St21-04_BMP_ETW_DS                                                
+West_OF1      St21-04_West_OF1                                                  
+North_OF1     St21-04_North_OF1                                                 
+East_OF1      St21-04_East_OF1                                                  
+East_OF2      St21-04_East_OF2                                                  
+Stream        St21-04_Stream                                                    
+BMP_NTIB_US   St22-01_BMP_NTIB_US                                               
+
+SAMP_LOC_NAME SAMPLE_ID               SAMPLE_DUPLICATE                          
+------------- ----------------------- -----------------------                   
+BMP_VRIT_US   St22-01_BMP_VRIT_US                                               
+BMP_SVS_US    St22-01_BMP_SVS_US                                                
+BMP_WTBB_US   St22-01_BMP_WTBB_US_dup                                           
+BMP_WTBB_US   St22-01_BMP_WTBB_US     St22-01_BMP_WTBB_US_dup                   
+BMP_VRBB_US   St22-01_BMP_VRBB_US                                               
+BMP_ETW_US    St22-01_BMP_ETW_US                                                
+BMP_QRIB_US   St22-01_BMP_QRIB_US                                               
+BMP_SVS_DS    St22-01_BMP_SVS_DS                                                
+BMP_ETW_DS    St22-01_BMP_ETW_DS                                                
+West_OF1      St22-01_West_OF1                                                  
+North_OF1     St22-01_North_OF1                                                 
+
+SAMP_LOC_NAME SAMPLE_ID               SAMPLE_DUPLICATE                          
+------------- ----------------------- -----------------------                   
+East_OF1      St22-01_East_OF1                                                  
+East_OF2      St22-01_East_OF2                                                  
+Stream        St22-01_Stream                                                    
+BMP_NTIB_US   St22-02_BMP_NTIB_US_dup                                           
+BMP_NTIB_US   St22-02_BMP_NTIB_US     St22-02_BMP_NTIB_US_dup                   
+BMP_VRIT_US   St22-02_BMP_VRIT_US                                               
+BMP_SVS_US    St22-02_BMP_SVS_US                                                
+BMP_WTBB_US   St22-02_BMP_WTBB_US                                               
+BMP_VRBB_US   St22-02_BMP_VRBB_US                                               
+BMP_ETW_US    St22-02_BMP_ETW_US                                                
+BMP_QRIB_US   St22-02_BMP_QRIB_US                                               
+
+SAMP_LOC_NAME SAMPLE_ID               SAMPLE_DUPLICATE                          
+------------- ----------------------- -----------------------                   
+BMP_SVS_DS    St22-02_BMP_SVS_DS                                                
+BMP_ETW_DS    St22-02_BMP_ETW_DS                                                
+West_OF1      St22-02_West_OF1                                                  
+North_OF1     St22-02_North_OF1                                                 
+East_OF1      St22-02_East_OF1                                                  
+East_OF2      St22-02_East_OF2                                                  
+Stream        St22-02_Stream                                                    
+BMP_NTIB_US   St22-03_BMP_NTIB_US                                               
+BMP_VRIT_US   St22-03_BMP_VRIT_US                                               
+BMP_SVS_US    St22-03_BMP_SVS_US                                                
+BMP_WTBB_US   St22-03_BMP_WTBB_US                                               
+
+SAMP_LOC_NAME SAMPLE_ID               SAMPLE_DUPLICATE                          
+------------- ----------------------- -----------------------                   
+BMP_VRBB_US   St22-03_BMP_VRBB_US                                               
+BMP_ETW_US    St22-03_BMP_ETW_US                                                
+BMP_QRIB_US   St22-03_BMP_QRIB_US_dup                                           
+BMP_QRIB_US   St22-03_BMP_QRIB_US     St22-03_BMP_QRIB_US_dup                   
+BMP_SVS_DS    St22-03_BMP_SVS_DS                                                
+BMP_ETW_DS    St22-03_BMP_ETW_DS                                                
+West_OF1      St22-03_West_OF1                                                  
+North_OF1     St22-03_North_OF1                                                 
+East_OF1      St22-03_East_OF1                                                  
+East_OF2      St22-03_East_OF2                                                  
+Stream        St22-03_Stream                                                    
+
+165 rows selected.
+
+===============================
+Contents of Concentration Table
+===============================
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_BMP_WTBB_US_dup Turbidity                          4.1                  
+St22-01_BMP_VRBB_US     Total Aluminum                     310                  
+St22-01_BMP_VRBB_US     Total Antimony                     .12                  
+St22-01_BMP_VRBB_US     Total Arsenic                      6.1                  
+St22-01_BMP_VRBB_US     Benzene                            4.2                  
+St22-01_BMP_VRBB_US     Total Beryllium                    .61                  
+St22-01_BMP_VRBB_US     Total Cadmium                      .81                  
+St22-01_BMP_VRBB_US     Chromium                            11                  
+St22-01_BMP_VRBB_US     Dissolved Copper                    .6                  
+St22-01_BMP_VRBB_US     Total Copper                        .6                  
+St22-01_BMP_VRBB_US     Dissolved Iron                      38                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_BMP_VRBB_US     Total Iron                          40                  
+St22-01_BMP_VRBB_US     Dissolved Lead                      35                  
+St22-01_BMP_VRBB_US     Total Lead                         .21                  
+St22-01_BMP_VRBB_US     Total Magnesium                    840                  
+St22-01_BMP_VRBB_US     Total Mercury                      .06                  
+St22-01_BMP_VRBB_US     Total Nickel                        .2                  
+St22-01_BMP_VRBB_US     Nitrate + Nitrite Nitrogen        .008                  
+St22-01_BMP_VRBB_US     Total Selenium                     4.2                  
+St22-01_BMP_VRBB_US     Dissolved Selenium                 1.5                  
+St22-01_BMP_VRBB_US     Sulfate                             20                  
+St22-01_BMP_VRBB_US     Total Zinc                          10                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_BMP_VRBB_US     Dissolved Zinc                     9.1                  
+St22-01_BMP_VRBB_US     Alkalinity                         .54                  
+St22-01_BMP_VRBB_US     Total Dissolved Solids              16                  
+St22-01_BMP_VRBB_US     Total Suspended Solids               4                  
+St22-01_BMP_VRBB_US     Turbidity                          3.8                  
+St22-01_BMP_ETW_US      Total Aluminum                      80                  
+St22-01_BMP_ETW_US      Total Antimony                      .8                  
+St22-01_BMP_ETW_US      Total Arsenic                      .97                  
+St22-01_BMP_ETW_US      Benzene                            3.9                  
+St22-01_BMP_ETW_US      Total Beryllium                    .61                  
+St22-01_BMP_ETW_US      Total Cadmium                       .7                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_BMP_ETW_US      Chromium                             6                  
+St22-01_BMP_ETW_US      Dissolved Copper                    .6                  
+St22-01_BMP_ETW_US      Total Copper                        .6                  
+St22-01_BMP_ETW_US      Dissolved Iron                     5.8                  
+St22-01_BMP_ETW_US      Total Iron                         6.3                  
+St22-01_BMP_ETW_US      Dissolved Lead                     5.8                  
+St22-01_BMP_ETW_US      Total Lead                         .08                  
+St22-01_BMP_ETW_US      Total Magnesium                    970                  
+St22-01_BMP_ETW_US      Total Mercury                      .06                  
+St22-01_BMP_ETW_US      Total Nickel                        13                  
+St22-01_BMP_ETW_US      Nitrate + Nitrite Nitrogen        .025                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_BMP_ETW_US      Total Selenium                       5                  
+St22-01_BMP_ETW_US      Dissolved Selenium                 1.5                  
+St22-01_BMP_ETW_US      Sulfate                             14                  
+St22-01_BMP_ETW_US      Total Zinc                         3.3                  
+St22-01_BMP_ETW_US      Dissolved Zinc                     1.9                  
+St22-01_BMP_ETW_US      Alkalinity                         150                  
+St22-01_BMP_ETW_US      Total Dissolved Solids              13                  
+St22-01_BMP_ETW_US      Total Suspended Solids               4                  
+St22-01_BMP_ETW_US      Turbidity                          1.1                  
+St22-01_BMP_QRIB_US     Total Aluminum                      80                  
+St22-01_BMP_QRIB_US     Total Antimony                     1.1                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_BMP_QRIB_US     Total Arsenic                      2.4                  
+St22-01_BMP_QRIB_US     Benzene                            .93                  
+St22-01_BMP_QRIB_US     Total Beryllium                    .61                  
+St22-01_BMP_QRIB_US     Total Cadmium                      .39                  
+St22-01_BMP_QRIB_US     Chromium                             2                  
+St22-01_BMP_QRIB_US     Dissolved Copper                    .6                  
+St22-01_BMP_QRIB_US     Total Copper                        .6                  
+St22-01_BMP_QRIB_US     Dissolved Iron                     6.3                  
+St22-01_BMP_QRIB_US     Total Iron                          12                  
+St22-01_BMP_QRIB_US     Dissolved Lead                     .25                  
+St22-01_BMP_QRIB_US     Total Lead                         .28                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_BMP_QRIB_US     Total Magnesium                   1200                  
+St22-01_BMP_QRIB_US     Total Mercury                      .06                  
+St22-01_BMP_QRIB_US     Total Nickel                        .8                  
+St22-01_BMP_QRIB_US     Nitrate + Nitrite Nitrogen        .019                  
+St22-01_BMP_QRIB_US     Total Selenium                     1.6                  
+St22-01_BMP_QRIB_US     Dissolved Selenium                 1.5                  
+St22-01_BMP_QRIB_US     Sulfate                             15                  
+St22-01_BMP_QRIB_US     Total Zinc                          12                  
+St22-01_BMP_QRIB_US     Dissolved Zinc                     6.9                  
+St22-01_BMP_QRIB_US     Alkalinity                          80                  
+St22-01_BMP_QRIB_US     Total Dissolved Solids              13                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_BMP_QRIB_US     Total Suspended Solids               4                  
+St22-01_BMP_QRIB_US     Turbidity                           .5                  
+St22-01_BMP_SVS_DS      Total Aluminum                      80                  
+St22-01_BMP_SVS_DS      Total Antimony                       1                  
+St22-01_BMP_SVS_DS      Total Arsenic                      7.2                  
+St22-01_BMP_SVS_DS      Benzene                            .25                  
+St22-01_BMP_SVS_DS      Total Beryllium                    .61                  
+St22-01_BMP_SVS_DS      Total Cadmium                     .048                  
+St22-01_BMP_SVS_DS      Chromium                           2.1                  
+St22-01_BMP_SVS_DS      Dissolved Copper                    .6                  
+St22-01_BMP_SVS_DS      Total Copper                        .6                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_BMP_SVS_DS      Dissolved Iron                     5.8                  
+St22-01_BMP_SVS_DS      Total Iron                         5.8                  
+St22-01_BMP_SVS_DS      Dissolved Lead                      .4                  
+St22-01_BMP_SVS_DS      Total Lead                          .1                  
+St22-01_BMP_SVS_DS      Total Magnesium                   2000                  
+St22-01_BMP_SVS_DS      Total Mercury                      .06                  
+St22-01_BMP_SVS_DS      Total Nickel                        .2                  
+St22-01_BMP_SVS_DS      Nitrate + Nitrite Nitrogen       .0045                  
+St22-01_BMP_SVS_DS      Total Selenium                     1.5                  
+St22-01_BMP_SVS_DS      Dissolved Selenium                 1.5                  
+St22-01_BMP_SVS_DS      Sulfate                             10                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_BMP_SVS_DS      Total Zinc                         1.9                  
+St22-01_BMP_SVS_DS      Dissolved Zinc                     1.9                  
+St22-01_BMP_SVS_DS      Alkalinity                         .54                  
+St22-01_BMP_SVS_DS      Total Dissolved Solids              13                  
+St22-01_BMP_SVS_DS      Total Suspended Solids               4                  
+St22-01_BMP_SVS_DS      Turbidity                           .5                  
+St22-01_BMP_ETW_DS      Total Aluminum                      80                  
+St22-01_BMP_ETW_DS      Total Antimony                      .4                  
+St22-01_BMP_ETW_DS      Total Arsenic                       .4                  
+St22-01_BMP_ETW_DS      Benzene                            .61                  
+St22-01_BMP_ETW_DS      Total Beryllium                    .61                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_BMP_ETW_DS      Total Cadmium                       .4                  
+St22-01_BMP_ETW_DS      Chromium                           .71                  
+St22-01_BMP_ETW_DS      Dissolved Copper                    .6                  
+St22-01_BMP_ETW_DS      Total Copper                        .6                  
+St22-01_BMP_ETW_DS      Dissolved Iron                     5.8                  
+St22-01_BMP_ETW_DS      Total Iron                         5.9                  
+St22-01_BMP_ETW_DS      Dissolved Lead                     5.8                  
+St22-01_BMP_ETW_DS      Total Lead                         .08                  
+St22-01_BMP_ETW_DS      Total Magnesium                    820                  
+St22-01_BMP_ETW_DS      Total Mercury                      .06                  
+St22-01_BMP_ETW_DS      Total Nickel                        .9                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_BMP_ETW_DS      Nitrate + Nitrite Nitrogen        .015                  
+St22-01_BMP_ETW_DS      Total Selenium                     1.8                  
+St22-01_BMP_ETW_DS      Dissolved Selenium                 1.5                  
+St22-01_BMP_ETW_DS      Sulfate                            3.3                  
+St22-01_BMP_ETW_DS      Total Zinc                           2                  
+St22-01_BMP_ETW_DS      Dissolved Zinc                     1.9                  
+St22-01_BMP_ETW_DS      Alkalinity                         110                  
+St22-01_BMP_ETW_DS      Total Dissolved Solids              13                  
+St22-01_BMP_ETW_DS      Total Suspended Solids               4                  
+St22-01_BMP_ETW_DS      Turbidity                           .5                  
+St22-01_West_OF1        Total Aluminum                      80                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_West_OF1        Total Antimony                      .7                  
+St22-01_West_OF1        Total Arsenic                      1.5                  
+St22-01_West_OF1        Benzene                            1.1                  
+St22-01_West_OF1        Total Beryllium                    .61                  
+St22-01_West_OF1        Total Cadmium                     .043                  
+St22-01_West_OF1        Chromium                             8                  
+St22-01_West_OF1        Dissolved Copper                    .6                  
+St22-01_West_OF1        Total Copper                        .6                  
+St22-01_West_OF1        Dissolved Iron                     5.8                  
+St22-01_West_OF1        Total Iron                         5.8                  
+St22-01_West_OF1        Dissolved Lead                     .09                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_West_OF1        Total Lead                          .1                  
+St22-01_West_OF1        Total Magnesium                    500                  
+St22-01_West_OF1        Total Mercury                      .06                  
+St22-01_West_OF1        Total Nickel                       1.2                  
+St22-01_West_OF1        Nitrate + Nitrite Nitrogen       .0059                  
+St22-01_West_OF1        Total Selenium                     1.8                  
+St22-01_West_OF1        Dissolved Selenium                 1.5                  
+St22-01_West_OF1        Sulfate                            .45                  
+St22-01_West_OF1        Total Zinc                           4                  
+St22-01_West_OF1        Dissolved Zinc                     3.7                  
+St22-01_West_OF1        Alkalinity                         2.3                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_West_OF1        Total Dissolved Solids              13                  
+St22-01_West_OF1        Total Suspended Solids               4                  
+St22-01_West_OF1        Turbidity                          6.1                  
+St22-01_North_OF1       Total Aluminum                     100                  
+St22-01_North_OF1       Total Antimony                     .39                  
+St22-01_North_OF1       Total Arsenic                      .57                  
+St22-01_North_OF1       Benzene                            .25                  
+St22-01_North_OF1       Total Beryllium                    .61                  
+St22-01_North_OF1       Total Cadmium                     .039                  
+St22-01_North_OF1       Chromium                           1.9                  
+St22-01_North_OF1       Dissolved Copper                    .6                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_North_OF1       Total Copper                        .6                  
+St22-01_North_OF1       Dissolved Iron                     6.2                  
+St22-01_North_OF1       Total Iron                         5.8                  
+St22-01_North_OF1       Dissolved Lead                     .08                  
+St22-01_North_OF1       Total Lead                         .08                  
+St22-01_North_OF1       Total Magnesium                    450                  
+St22-01_North_OF1       Total Mercury                      .06                  
+St22-01_North_OF1       Total Nickel                        .2                  
+St22-01_North_OF1       Nitrate + Nitrite Nitrogen        .004                  
+St22-01_North_OF1       Total Selenium                     1.5                  
+St22-01_North_OF1       Dissolved Selenium                 1.5                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_North_OF1       Sulfate                            .39                  
+St22-01_North_OF1       Total Zinc                         4.8                  
+St22-01_North_OF1       Dissolved Zinc                     8.9                  
+St22-01_North_OF1       Alkalinity                          45                  
+St22-01_North_OF1       Total Dissolved Solids              14                  
+St22-01_North_OF1       Total Suspended Solids               4                  
+St22-01_North_OF1       Turbidity                          2.5                  
+St22-01_East_OF1        Total Aluminum                      80                  
+St22-01_East_OF1        Total Antimony                     .27                  
+St22-01_East_OF1        Total Arsenic                      .27                  
+St22-01_East_OF1        Benzene                            .25                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_East_OF1        Total Beryllium                    .61                  
+St22-01_East_OF1        Total Cadmium                     .029                  
+St22-01_East_OF1        Chromium                           1.7                  
+St22-01_East_OF1        Dissolved Copper                    .6                  
+St22-01_East_OF1        Total Copper                        .6                  
+St22-01_East_OF1        Dissolved Iron                     9.4                  
+St22-01_East_OF1        Total Iron                           6                  
+St22-01_East_OF1        Dissolved Lead                     .15                  
+St22-01_East_OF1        Total Lead                         .21                  
+St22-01_East_OF1        Total Magnesium                    130                  
+St22-01_East_OF1        Total Mercury                      .06                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_East_OF1        Total Nickel                        12                  
+St22-01_East_OF1        Nitrate + Nitrite Nitrogen       .0078                  
+St22-01_East_OF1        Total Selenium                     4.3                  
+St22-01_East_OF1        Dissolved Selenium                 1.5                  
+St22-01_East_OF1        Sulfate                            .15                  
+St22-01_East_OF1        Total Zinc                         1.9                  
+St22-01_East_OF1        Dissolved Zinc                     4.2                  
+St22-01_East_OF1        Alkalinity                           8                  
+St22-01_East_OF1        Total Dissolved Solids              15                  
+St22-01_East_OF1        Total Suspended Solids               4                  
+St22-01_East_OF1        Turbidity                          4.1                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_East_OF2        Total Aluminum                      80                  
+St22-01_East_OF2        Total Antimony                      .5                  
+St22-01_East_OF2        Total Arsenic                      .41                  
+St22-01_East_OF2        Benzene                            1.5                  
+St22-01_East_OF2        Total Beryllium                    .61                  
+St22-01_East_OF2        Total Cadmium                     .028                  
+St22-01_East_OF2        Chromium                            10                  
+St22-01_East_OF2        Dissolved Copper                    .6                  
+St22-01_East_OF2        Total Copper                        .6                  
+St22-01_East_OF2        Dissolved Iron                     9.7                  
+St22-01_East_OF2        Total Iron                         8.9                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_East_OF2        Dissolved Lead                     .09                  
+St22-01_East_OF2        Total Lead                         .34                  
+St22-01_East_OF2        Total Magnesium                    140                  
+St22-01_East_OF2        Total Mercury                      .06                  
+St22-01_East_OF2        Total Nickel                        .2                  
+St22-01_East_OF2        Nitrate + Nitrite Nitrogen        .009                  
+St22-01_East_OF2        Total Selenium                     1.7                  
+St22-01_East_OF2        Dissolved Selenium                 1.5                  
+St22-01_East_OF2        Sulfate                            .29                  
+St22-01_East_OF2        Total Zinc                           2                  
+St22-01_East_OF2        Dissolved Zinc                     .54                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_East_OF2        Alkalinity                           9                  
+St22-01_East_OF2        Total Dissolved Solids              13                  
+St22-01_East_OF2        Total Suspended Solids               4                  
+St22-01_East_OF2        Turbidity                          1.2                  
+St22-01_Stream          Total Aluminum                      80                  
+St22-01_Stream          Total Antimony                     .19                  
+St22-01_Stream          Total Arsenic                      .29                  
+St22-01_Stream          Benzene                            .73                  
+St22-01_Stream          Total Beryllium                    .61                  
+St22-01_Stream          Total Cadmium                       .5                  
+St22-01_Stream          Chromium                           1.9                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_Stream          Dissolved Copper                    .6                  
+St22-01_Stream          Total Copper                        .6                  
+St22-01_Stream          Dissolved Iron                     6.2                  
+St22-01_Stream          Total Iron                         7.3                  
+St22-01_Stream          Dissolved Lead                     .08                  
+St22-01_Stream          Total Lead                         .08                  
+St22-01_Stream          Total Magnesium                    140                  
+St22-01_Stream          Total Mercury                      .06                  
+St22-01_Stream          Total Nickel                       .23                  
+St22-01_Stream          Nitrate + Nitrite Nitrogen        .005                  
+St22-01_Stream          Total Selenium                     1.7                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_Stream          Dissolved Selenium                 1.5                  
+St22-01_Stream          Sulfate                            .15                  
+St22-01_Stream          Total Zinc                         1.9                  
+St22-01_Stream          Dissolved Zinc                     2.5                  
+St22-01_Stream          Alkalinity                           5                  
+St22-01_Stream          Total Dissolved Solids              13                  
+St22-01_Stream          Total Suspended Solids               4                  
+St22-01_Stream          Turbidity                          1.5                  
+St22-01_blank           Total Aluminum                      80                  
+St22-01_blank           Total Antimony                     .08                  
+St22-01_blank           Total Arsenic                      .27                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_blank           Benzene                             .3                  
+St22-01_blank           Total Beryllium                    .61                  
+St22-01_blank           Total Cadmium                     .028                  
+St22-01_blank           Chromium                           .71                  
+St22-01_blank           Dissolved Copper                    .6                  
+St22-01_blank           Total Copper                        .6                  
+St22-01_blank           Dissolved Iron                     5.8                  
+St22-01_blank           Total Iron                         5.8                  
+St22-01_blank           Dissolved Lead                     .08                  
+St22-01_blank           Total Lead                          .1                  
+St22-01_blank           Total Magnesium                    130                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_blank           Total Mercury                      .06                  
+St22-01_blank           Total Nickel                        .2                  
+St22-01_blank           Nitrate + Nitrite Nitrogen        .004                  
+St22-01_blank           Total Selenium                     1.5                  
+St22-01_blank           Dissolved Selenium                 1.5                  
+St22-01_blank           Sulfate                            .13                  
+St22-01_blank           Total Zinc                         1.9                  
+St22-01_blank           Dissolved Zinc                     1.9                  
+St22-01_blank           Alkalinity                         .54                  
+St22-01_blank           Total Dissolved Solids              13                  
+St22-01_blank           Total Suspended Solids               4                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_blank           Turbidity                           .5                  
+St22-01_BMP_NTIB_US     Total Aluminum                     490                  
+St22-01_BMP_NTIB_US     Total Antimony                     1.3                  
+St22-01_BMP_NTIB_US     Total Arsenic                      6.4                  
+St22-01_BMP_NTIB_US     Benzene                            1.5                  
+St22-01_BMP_NTIB_US     Total Beryllium                    .61                  
+St22-01_BMP_NTIB_US     Total Cadmium                     .072                  
+St22-01_BMP_NTIB_US     Chromium                            32                  
+St22-01_BMP_NTIB_US     Dissolved Copper                    .6                  
+St22-01_BMP_NTIB_US     Total Copper                        .6                  
+St22-01_BMP_NTIB_US     Dissolved Iron                     6.3                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_BMP_NTIB_US     Total Iron                         6.5                  
+St22-01_BMP_NTIB_US     Dissolved Lead                     .08                  
+St22-01_BMP_NTIB_US     Total Lead                         .09                  
+St22-01_BMP_NTIB_US     Total Magnesium                  77000                  
+St22-01_BMP_NTIB_US     Total Mercury                      .06                  
+St22-01_BMP_NTIB_US     Total Nickel                        19                  
+St22-01_BMP_NTIB_US     Nitrate + Nitrite Nitrogen       .0059                  
+St22-01_BMP_NTIB_US     Total Selenium                     1.5                  
+St22-01_BMP_NTIB_US     Dissolved Selenium                 1.5                  
+St22-01_BMP_NTIB_US     Sulfate                            .26                  
+St22-01_BMP_NTIB_US     Total Zinc                         9.3                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_BMP_NTIB_US     Dissolved Zinc                       8                  
+St22-01_BMP_NTIB_US     Alkalinity                        1000                  
+St22-01_BMP_NTIB_US     Total Dissolved Solids              14                  
+St22-01_BMP_NTIB_US     Total Suspended Solids               4                  
+St22-01_BMP_NTIB_US     Turbidity                          2.5                  
+St22-01_BMP_VRIT_US     Total Aluminum                     140                  
+St22-01_BMP_VRIT_US     Total Antimony                     1.4                  
+St22-01_BMP_VRIT_US     Total Arsenic                      7.5                  
+St22-01_BMP_VRIT_US     Benzene                            1.5                  
+St22-01_BMP_VRIT_US     Total Beryllium                    .61                  
+St22-01_BMP_VRIT_US     Total Cadmium                     .054                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_BMP_VRIT_US     Chromium                           4.3                  
+St22-01_BMP_VRIT_US     Dissolved Copper                    .6                  
+St22-01_BMP_VRIT_US     Total Copper                        .6                  
+St22-01_BMP_VRIT_US     Dissolved Iron                     8.2                  
+St22-01_BMP_VRIT_US     Total Iron                          12                  
+St22-01_BMP_VRIT_US     Dissolved Lead                     .08                  
+St22-01_BMP_VRIT_US     Total Lead                         .14                  
+St22-01_BMP_VRIT_US     Total Magnesium                   1100                  
+St22-01_BMP_VRIT_US     Total Mercury                      .06                  
+St22-01_BMP_VRIT_US     Total Nickel                        .2                  
+St22-01_BMP_VRIT_US     Nitrate + Nitrite Nitrogen        .024                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_BMP_VRIT_US     Total Selenium                     3.8                  
+St22-01_BMP_VRIT_US     Dissolved Selenium                 1.5                  
+St22-01_BMP_VRIT_US     Sulfate                             79                  
+St22-01_BMP_VRIT_US     Total Zinc                           8                  
+St22-01_BMP_VRIT_US     Dissolved Zinc                     7.2                  
+St22-01_BMP_VRIT_US     Alkalinity                         610                  
+St22-01_BMP_VRIT_US     Total Dissolved Solids              13                  
+St22-01_BMP_VRIT_US     Total Suspended Solids               4                  
+St22-01_BMP_VRIT_US     Turbidity                          6.1                  
+St22-01_BMP_SVS_US      Total Aluminum                      80                  
+St22-01_BMP_SVS_US      Total Antimony                     1.4                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_BMP_SVS_US      Total Arsenic                      7.5                  
+St22-01_BMP_SVS_US      Benzene                            .25                  
+St22-01_BMP_SVS_US      Total Beryllium                    .61                  
+St22-01_BMP_SVS_US      Total Cadmium                     .054                  
+St22-01_BMP_SVS_US      Chromium                             4                  
+St22-01_BMP_SVS_US      Dissolved Copper                    .6                  
+St22-01_BMP_SVS_US      Total Copper                        .6                  
+St22-01_BMP_SVS_US      Dissolved Iron                     5.8                  
+St22-01_BMP_SVS_US      Total Iron                         6.5                  
+St22-01_BMP_SVS_US      Dissolved Lead                     .53                  
+St22-01_BMP_SVS_US      Total Lead                         .13                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_BMP_SVS_US      Total Magnesium                   5300                  
+St22-01_BMP_SVS_US      Total Mercury                      .06                  
+St22-01_BMP_SVS_US      Total Nickel                        .2                  
+St22-01_BMP_SVS_US      Nitrate + Nitrite Nitrogen       .0059                  
+St22-01_BMP_SVS_US      Total Selenium                     1.5                  
+St22-01_BMP_SVS_US      Dissolved Selenium                 1.5                  
+St22-01_BMP_SVS_US      Sulfate                             16                  
+St22-01_BMP_SVS_US      Total Zinc                         9.3                  
+St22-01_BMP_SVS_US      Dissolved Zinc                     5.5                  
+St22-01_BMP_SVS_US      Alkalinity                         .54                  
+St22-01_BMP_SVS_US      Total Dissolved Solids              14                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_BMP_SVS_US      Total Suspended Solids               4                  
+St22-01_BMP_SVS_US      Turbidity                           .5                  
+St22-01_BMP_WTBB_US     Total Aluminum                      80                  
+St22-01_BMP_WTBB_US     Total Antimony                     1.2                  
+St22-01_BMP_WTBB_US     Total Arsenic                      3.3                  
+St22-01_BMP_WTBB_US     Benzene                            4.3                  
+St22-01_BMP_WTBB_US     Total Beryllium                    .61                  
+St22-01_BMP_WTBB_US     Total Cadmium                      .53                  
+St22-01_BMP_WTBB_US     Chromium                            26                  
+St22-01_BMP_WTBB_US     Dissolved Copper                    .6                  
+St22-01_BMP_WTBB_US     Total Copper                        .6                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_BMP_WTBB_US     Dissolved Iron                      11                  
+St22-01_BMP_WTBB_US     Total Iron                          15                  
+St22-01_BMP_WTBB_US     Dissolved Lead                      .5                  
+St22-01_BMP_WTBB_US     Total Lead                          .4                  
+St22-01_BMP_WTBB_US     Total Magnesium                    900                  
+St22-01_BMP_WTBB_US     Total Mercury                      .06                  
+St22-01_BMP_WTBB_US     Total Nickel                        18                  
+St22-01_BMP_WTBB_US     Nitrate + Nitrite Nitrogen        .034                  
+St22-01_BMP_WTBB_US     Total Selenium                     3.9                  
+St22-01_BMP_WTBB_US     Dissolved Selenium                 1.5                  
+St22-01_BMP_WTBB_US     Sulfate                             10                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_BMP_WTBB_US     Total Zinc                           7                  
+St22-01_BMP_WTBB_US     Dissolved Zinc                     5.3                  
+St22-01_BMP_WTBB_US     Alkalinity                         300                  
+St22-01_BMP_WTBB_US     Total Dissolved Solids              20                  
+St22-01_BMP_WTBB_US     Total Suspended Solids               4                  
+St22-01_BMP_WTBB_US     Turbidity                          5.3                  
+St22-01_BMP_WTBB_US_dup Total Aluminum                      80                  
+St22-01_BMP_WTBB_US_dup Total Antimony                     1.1                  
+St22-01_BMP_WTBB_US_dup Total Arsenic                      2.8                  
+St22-01_BMP_WTBB_US_dup Benzene                            2.1                  
+St22-01_BMP_WTBB_US_dup Total Beryllium                    .61                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_BMP_WTBB_US_dup Total Cadmium                       .6                  
+St22-01_BMP_WTBB_US_dup Chromium                            30                  
+St22-01_BMP_WTBB_US_dup Dissolved Copper                    .6                  
+St22-01_BMP_WTBB_US_dup Total Copper                        .6                  
+St22-01_BMP_WTBB_US_dup Dissolved Iron                       6                  
+St22-01_BMP_WTBB_US_dup Total Iron                           8                  
+St22-01_BMP_WTBB_US_dup Dissolved Lead                      .7                  
+St22-01_BMP_WTBB_US_dup Total Lead                          .3                  
+St22-01_BMP_WTBB_US_dup Total Magnesium                   1000                  
+St22-01_BMP_WTBB_US_dup Total Mercury                      .06                  
+St22-01_BMP_WTBB_US_dup Total Nickel                        13                  
+
+SAMPLE_ID               PARAM_NAME                 CONC_RESULT                  
+----------------------- -------------------------- -----------                  
+St22-01_BMP_WTBB_US_dup Nitrate + Nitrite Nitrogen        .031                  
+St22-01_BMP_WTBB_US_dup Total Selenium                     3.8                  
+St22-01_BMP_WTBB_US_dup Dissolved Selenium                 1.5                  
+St22-01_BMP_WTBB_US_dup Sulfate                              9                  
+St22-01_BMP_WTBB_US_dup Total Zinc                         5.3                  
+St22-01_BMP_WTBB_US_dup Dissolved Zinc                     4.8                  
+St22-01_BMP_WTBB_US_dup Alkalinity                         280                  
+St22-01_BMP_WTBB_US_dup Total Dissolved Solids              25                  
+St22-01_BMP_WTBB_US_dup Total Suspended Solids               4                  
+
+416 rows selected.
+
+===========================
+Contents of Data_Flag Table
+===========================
+
+SAMPLE_ID               PARAM_NAME                 DATA_QUAL                    
+----------------------- -------------------------- ---------                    
+St22-01_BMP_QRIB_US     Dissolved Iron             J                            
+St22-01_BMP_QRIB_US     Total Iron                 J                            
+St22-01_BMP_QRIB_US     Dissolved Lead             J                            
+St22-01_BMP_QRIB_US     Total Lead                 J                            
+St22-01_BMP_QRIB_US     Total Mercury              U                            
+St22-01_BMP_QRIB_US     Total Nickel               J                            
+St22-01_BMP_QRIB_US     Nitrate + Nitrite Nitrogen J                            
+St22-01_BMP_QRIB_US     Total Selenium             J                            
+St22-01_BMP_QRIB_US     Dissolved Selenium         U                            
+St22-01_BMP_QRIB_US     Dissolved Zinc             J                            
+St22-01_BMP_QRIB_US     Total Dissolved Solids     U                            
+
+SAMPLE_ID               PARAM_NAME                 DATA_QUAL                    
+----------------------- -------------------------- ---------                    
+St22-01_BMP_QRIB_US     Total Suspended Solids     U                            
+St22-01_BMP_QRIB_US     Turbidity                  U                            
+St22-01_BMP_SVS_DS      Total Aluminum             U                            
+St22-01_BMP_SVS_DS      Benzene                    U                            
+St22-01_BMP_SVS_DS      Total Beryllium            U                            
+St22-01_BMP_SVS_DS      Total Cadmium              J                            
+St22-01_BMP_SVS_DS      Dissolved Copper           U                            
+St22-01_BMP_SVS_DS      Total Copper               U                            
+St22-01_BMP_SVS_DS      Dissolved Iron             U                            
+St22-01_BMP_SVS_DS      Total Iron                 U                            
+St22-01_BMP_SVS_DS      Total Lead                 J                            
+
+SAMPLE_ID               PARAM_NAME                 DATA_QUAL                    
+----------------------- -------------------------- ---------                    
+St22-01_BMP_SVS_DS      Total Mercury              U                            
+St22-01_BMP_SVS_DS      Total Nickel               U                            
+St22-01_BMP_SVS_DS      Nitrate + Nitrite Nitrogen J                            
+St22-01_BMP_SVS_DS      Total Selenium             U                            
+St22-01_BMP_SVS_DS      Dissolved Selenium         U                            
+St22-01_BMP_SVS_DS      Total Zinc                 U                            
+St22-01_BMP_SVS_DS      Dissolved Zinc             U                            
+St22-01_BMP_SVS_DS      Alkalinity                 U                            
+St22-01_BMP_SVS_DS      Total Dissolved Solids     U                            
+St22-01_BMP_SVS_DS      Total Suspended Solids     U                            
+St22-01_BMP_SVS_DS      Turbidity                  U                            
+
+SAMPLE_ID               PARAM_NAME                 DATA_QUAL                    
+----------------------- -------------------------- ---------                    
+St22-01_BMP_ETW_DS      Total Aluminum             U                            
+St22-01_BMP_ETW_DS      Total Arsenic              J                            
+St22-01_BMP_ETW_DS      Benzene                    U                            
+St22-01_BMP_ETW_DS      Total Beryllium            U                            
+St22-01_BMP_ETW_DS      Total Cadmium              U                            
+St22-01_BMP_ETW_DS      Chromium                   U                            
+St22-01_BMP_ETW_DS      Dissolved Copper           U                            
+St22-01_BMP_ETW_DS      Total Copper               U                            
+St22-01_BMP_ETW_DS      Dissolved Iron             U                            
+St22-01_BMP_ETW_DS      Total Iron                 J                            
+St22-01_BMP_ETW_DS      Dissolved Lead             U                            
+
+SAMPLE_ID               PARAM_NAME                 DATA_QUAL                    
+----------------------- -------------------------- ---------                    
+St22-01_BMP_ETW_DS      Total Lead                 U                            
+St22-01_BMP_ETW_DS      Total Magnesium            J                            
+St22-01_BMP_ETW_DS      Total Magnesium            B                            
+St22-01_BMP_ETW_DS      Total Mercury              U                            
+St22-01_BMP_ETW_DS      Total Nickel               J                            
+St22-01_BMP_ETW_DS      Nitrate + Nitrite Nitrogen J                            
+St22-01_BMP_ETW_DS      Total Selenium             J                            
+St22-01_BMP_ETW_DS      Dissolved Selenium         U                            
+St22-01_BMP_ETW_DS      Dissolved Zinc             U                            
+St22-01_BMP_ETW_DS      Total Dissolved Solids     U                            
+St22-01_BMP_ETW_DS      Total Suspended Solids     U                            
+
+SAMPLE_ID               PARAM_NAME                 DATA_QUAL                    
+----------------------- -------------------------- ---------                    
+St22-01_BMP_ETW_DS      Turbidity                  U                            
+St22-01_West_OF1        Total Aluminum             U                            
+St22-01_West_OF1        Benzene                    J                            
+St22-01_West_OF1        Total Beryllium            U                            
+St22-01_West_OF1        Total Cadmium              J                            
+St22-01_West_OF1        Dissolved Copper           U                            
+St22-01_West_OF1        Total Copper               U                            
+St22-01_West_OF1        Dissolved Iron             U                            
+St22-01_West_OF1        Total Iron                 U                            
+St22-01_West_OF1        Dissolved Lead             J                            
+St22-01_West_OF1        Total Lead                 J                            
+
+SAMPLE_ID               PARAM_NAME                 DATA_QUAL                    
+----------------------- -------------------------- ---------                    
+St22-01_West_OF1        Total Magnesium            J                            
+St22-01_West_OF1        Total Mercury              U                            
+St22-01_West_OF1        Total Nickel               J                            
+St22-01_West_OF1        Nitrate + Nitrite Nitrogen J                            
+St22-01_West_OF1        Total Selenium             J                            
+St22-01_West_OF1        Dissolved Selenium         U                            
+St22-01_West_OF1        Sulfate                    J                            
+St22-01_West_OF1        Total Zinc                 J                            
+St22-01_West_OF1        Dissolved Zinc             J                            
+St22-01_West_OF1        Alkalinity                 J                            
+St22-01_West_OF1        Total Dissolved Solids     U                            
+
+SAMPLE_ID               PARAM_NAME                 DATA_QUAL                    
+----------------------- -------------------------- ---------                    
+St22-01_West_OF1        Total Suspended Solids     U                            
+St22-01_North_OF1       Total Aluminum             J                            
+St22-01_North_OF1       Total Antimony             J                            
+St22-01_North_OF1       Total Arsenic              J                            
+St22-01_North_OF1       Benzene                    U                            
+St22-01_North_OF1       Total Beryllium            U                            
+St22-01_North_OF1       Total Cadmium              J                            
+St22-01_North_OF1       Chromium                   J                            
+St22-01_North_OF1       Dissolved Copper           U                            
+St22-01_North_OF1       Total Copper               U                            
+St22-01_North_OF1       Dissolved Iron             J                            
+
+SAMPLE_ID               PARAM_NAME                 DATA_QUAL                    
+----------------------- -------------------------- ---------                    
+St22-01_North_OF1       Total Iron                 U                            
+St22-01_North_OF1       Dissolved Lead             U                            
+St22-01_North_OF1       Total Lead                 U                            
+St22-01_North_OF1       Total Magnesium            J                            
+St22-01_North_OF1       Total Mercury              U                            
+St22-01_North_OF1       Total Nickel               U                            
+St22-01_North_OF1       Nitrate + Nitrite Nitrogen U                            
+St22-01_North_OF1       Total Selenium             U                            
+St22-01_North_OF1       Dissolved Selenium         U                            
+St22-01_North_OF1       Sulfate                    J                            
+St22-01_North_OF1       Total Zinc                 J                            
+
+SAMPLE_ID               PARAM_NAME                 DATA_QUAL                    
+----------------------- -------------------------- ---------                    
+St22-01_North_OF1       Dissolved Zinc             J                            
+St22-01_North_OF1       Total Suspended Solids     U                            
+St22-01_East_OF1        Total Aluminum             U                            
+St22-01_East_OF1        Total Antimony             J                            
+St22-01_East_OF1        Total Arsenic              U                            
+St22-01_East_OF1        Benzene                    U                            
+St22-01_East_OF1        Total Beryllium            U                            
+St22-01_East_OF1        Total Cadmium              J                            
+St22-01_East_OF1        Chromium                   J                            
+St22-01_East_OF1        Dissolved Copper           U                            
+St22-01_East_OF1        Total Copper               U                            
+
+SAMPLE_ID               PARAM_NAME                 DATA_QUAL                    
+----------------------- -------------------------- ---------                    
+St22-01_East_OF1        Dissolved Iron             J                            
+St22-01_East_OF1        Total Iron                 J                            
+St22-01_East_OF1        Dissolved Lead             J                            
+St22-01_East_OF1        Total Lead                 J                            
+St22-01_East_OF1        Total Magnesium            U                            
+St22-01_East_OF1        Total Mercury              U                            
+St22-01_East_OF1        Total Nickel               J                            
+St22-01_East_OF1        Nitrate + Nitrite Nitrogen J                            
+St22-01_East_OF1        Total Selenium             J                            
+St22-01_East_OF1        Dissolved Selenium         U                            
+St22-01_East_OF1        Sulfate                    J                            
+
+SAMPLE_ID               PARAM_NAME                 DATA_QUAL                    
+----------------------- -------------------------- ---------                    
+St22-01_East_OF1        Total Zinc                 U                            
+St22-01_East_OF1        Dissolved Zinc             J                            
+St22-01_East_OF1        Total Suspended Solids     U                            
+St22-01_East_OF2        Total Aluminum             U                            
+St22-01_East_OF2        Total Arsenic              J                            
+St22-01_East_OF2        Benzene                    J                            
+St22-01_East_OF2        Benzene                    B                            
+St22-01_East_OF2        Total Beryllium            U                            
+St22-01_East_OF2        Total Cadmium              U                            
+St22-01_East_OF2        Dissolved Copper           U                            
+St22-01_East_OF2        Total Copper               U                            
+
+SAMPLE_ID               PARAM_NAME                 DATA_QUAL                    
+----------------------- -------------------------- ---------                    
+St22-01_East_OF2        Dissolved Iron             J                            
+St22-01_East_OF2        Total Iron                 J                            
+St22-01_East_OF2        Dissolved Lead             J                            
+St22-01_East_OF2        Total Lead                 J                            
+St22-01_East_OF2        Total Magnesium            J                            
+St22-01_East_OF2        Total Mercury              U                            
+St22-01_East_OF2        Total Nickel               U                            
+St22-01_East_OF2        Nitrate + Nitrite Nitrogen J                            
+St22-01_East_OF2        Total Selenium             J                            
+St22-01_East_OF2        Dissolved Selenium         U                            
+St22-01_East_OF2        Sulfate                    J                            
+
+SAMPLE_ID               PARAM_NAME                 DATA_QUAL                    
+----------------------- -------------------------- ---------                    
+St22-01_East_OF2        Total Zinc                 J                            
+St22-01_East_OF2        Dissolved Zinc             U                            
+St22-01_East_OF2        Total Dissolved Solids     U                            
+St22-01_East_OF2        Total Suspended Solids     U                            
+St22-01_Stream          Total Aluminum             U                            
+St22-01_Stream          Total Antimony             J                            
+St22-01_Stream          Total Arsenic              J                            
+St22-01_Stream          Benzene                    J                            
+St22-01_Stream          Total Beryllium            U                            
+St22-01_Stream          Chromium                   J                            
+St22-01_Stream          Dissolved Copper           U                            
+
+SAMPLE_ID               PARAM_NAME                 DATA_QUAL                    
+----------------------- -------------------------- ---------                    
+St22-01_Stream          Total Copper               U                            
+St22-01_Stream          Dissolved Iron             J                            
+St22-01_Stream          Total Iron                 J                            
+St22-01_Stream          Dissolved Lead             U                            
+St22-01_Stream          Total Lead                 U                            
+St22-01_Stream          Total Magnesium            J                            
+St22-01_Stream          Total Mercury              U                            
+St22-01_Stream          Total Nickel               J                            
+St22-01_Stream          Nitrate + Nitrite Nitrogen J                            
+St22-01_Stream          Total Selenium             J                            
+St22-01_Stream          Dissolved Selenium         U                            
+
+SAMPLE_ID               PARAM_NAME                 DATA_QUAL                    
+----------------------- -------------------------- ---------                    
+St22-01_Stream          Sulfate                    J                            
+St22-01_Stream          Total Zinc                 U                            
+St22-01_Stream          Dissolved Zinc             J                            
+St22-01_Stream          Total Dissolved Solids     U                            
+St22-01_Stream          Total Suspended Solids     U                            
+St22-01_blank           Total Aluminum             U                            
+St22-01_blank           Total Antimony             U                            
+St22-01_blank           Total Arsenic              U                            
+St22-01_blank           Benzene                    J                            
+St22-01_blank           Total Beryllium            U                            
+St22-01_blank           Total Cadmium              U                            
+
+SAMPLE_ID               PARAM_NAME                 DATA_QUAL                    
+----------------------- -------------------------- ---------                    
+St22-01_blank           Chromium                   U                            
+St22-01_blank           Dissolved Copper           U                            
+St22-01_blank           Total Copper               U                            
+St22-01_blank           Dissolved Iron             U                            
+St22-01_blank           Total Iron                 U                            
+St22-01_blank           Dissolved Lead             U                            
+St22-01_blank           Total Lead                 J                            
+St22-01_blank           Total Magnesium            U                            
+St22-01_blank           Total Mercury              U                            
+St22-01_blank           Total Nickel               U                            
+St22-01_blank           Nitrate + Nitrite Nitrogen U                            
+
+SAMPLE_ID               PARAM_NAME                 DATA_QUAL                    
+----------------------- -------------------------- ---------                    
+St22-01_blank           Total Selenium             U                            
+St22-01_blank           Dissolved Selenium         U                            
+St22-01_blank           Sulfate                    U                            
+St22-01_blank           Total Zinc                 U                            
+St22-01_blank           Dissolved Zinc             U                            
+St22-01_blank           Alkalinity                 U                            
+St22-01_blank           Total Dissolved Solids     U                            
+St22-01_blank           Total Suspended Solids     U                            
+St22-01_blank           Turbidity                  U                            
+St22-01_BMP_NTIB_US     Benzene                    J                            
+St22-01_BMP_NTIB_US     Total Beryllium            U                            
+
+SAMPLE_ID               PARAM_NAME                 DATA_QUAL                    
+----------------------- -------------------------- ---------                    
+St22-01_BMP_NTIB_US     Total Cadmium              J                            
+St22-01_BMP_NTIB_US     Dissolved Copper           U                            
+St22-01_BMP_NTIB_US     Total Copper               U                            
+St22-01_BMP_NTIB_US     Dissolved Iron             J                            
+St22-01_BMP_NTIB_US     Total Iron                 J                            
+St22-01_BMP_NTIB_US     Dissolved Lead             U                            
+St22-01_BMP_NTIB_US     Total Lead                 J                            
+St22-01_BMP_NTIB_US     Total Magnesium            E                            
+St22-01_BMP_NTIB_US     Total Magnesium            B                            
+St22-01_BMP_NTIB_US     Total Mercury              U                            
+St22-01_BMP_NTIB_US     Nitrate + Nitrite Nitrogen J                            
+
+SAMPLE_ID               PARAM_NAME                 DATA_QUAL                    
+----------------------- -------------------------- ---------                    
+St22-01_BMP_NTIB_US     Total Selenium             U                            
+St22-01_BMP_NTIB_US     Dissolved Selenium         U                            
+St22-01_BMP_NTIB_US     Sulfate                    J                            
+St22-01_BMP_NTIB_US     Dissolved Zinc             J                            
+St22-01_BMP_NTIB_US     Dissolved Zinc             B                            
+St22-01_BMP_NTIB_US     Alkalinity                 B                            
+St22-01_BMP_NTIB_US     Total Dissolved Solids     J                            
+St22-01_BMP_NTIB_US     Total Suspended Solids     U                            
+St22-01_BMP_VRIT_US     Total Aluminum             J                            
+St22-01_BMP_VRIT_US     Benzene                    J                            
+St22-01_BMP_VRIT_US     Total Beryllium            U                            
+
+SAMPLE_ID               PARAM_NAME                 DATA_QUAL                    
+----------------------- -------------------------- ---------                    
+St22-01_BMP_VRIT_US     Total Cadmium              J                            
+St22-01_BMP_VRIT_US     Dissolved Copper           U                            
+St22-01_BMP_VRIT_US     Total Copper               U                            
+St22-01_BMP_VRIT_US     Dissolved Iron             J                            
+St22-01_BMP_VRIT_US     Total Iron                 J                            
+St22-01_BMP_VRIT_US     Dissolved Lead             U                            
+St22-01_BMP_VRIT_US     Total Lead                 J                            
+St22-01_BMP_VRIT_US     Total Mercury              U                            
+St22-01_BMP_VRIT_US     Total Nickel               U                            
+St22-01_BMP_VRIT_US     Total Selenium             J                            
+St22-01_BMP_VRIT_US     Dissolved Selenium         U                            
+
+SAMPLE_ID               PARAM_NAME                 DATA_QUAL                    
+----------------------- -------------------------- ---------                    
+St22-01_BMP_VRIT_US     Alkalinity                 B                            
+St22-01_BMP_VRIT_US     Total Dissolved Solids     J                            
+St22-01_BMP_VRIT_US     Total Suspended Solids     U                            
+St22-01_BMP_SVS_US      Total Aluminum             U                            
+St22-01_BMP_SVS_US      Total Aluminum             H                            
+St22-01_BMP_SVS_US      Benzene                    U                            
+St22-01_BMP_SVS_US      Total Beryllium            U                            
+St22-01_BMP_SVS_US      Total Cadmium              J                            
+St22-01_BMP_SVS_US      Dissolved Copper           U                            
+St22-01_BMP_SVS_US      Total Copper               U                            
+St22-01_BMP_SVS_US      Dissolved Iron             U                            
+
+SAMPLE_ID               PARAM_NAME                 DATA_QUAL                    
+----------------------- -------------------------- ---------                    
+St22-01_BMP_SVS_US      Total Iron                 J                            
+St22-01_BMP_SVS_US      Total Lead                 J                            
+St22-01_BMP_SVS_US      Total Magnesium            E                            
+St22-01_BMP_SVS_US      Total Mercury              U                            
+St22-01_BMP_SVS_US      Total Nickel               U                            
+St22-01_BMP_SVS_US      Nitrate + Nitrite Nitrogen J                            
+St22-01_BMP_SVS_US      Total Selenium             J                            
+St22-01_BMP_SVS_US      Dissolved Selenium         U                            
+St22-01_BMP_SVS_US      Dissolved Zinc             J                            
+St22-01_BMP_SVS_US      Alkalinity                 U                            
+St22-01_BMP_SVS_US      Total Dissolved Solids     J                            
+
+SAMPLE_ID               PARAM_NAME                 DATA_QUAL                    
+----------------------- -------------------------- ---------                    
+St22-01_BMP_SVS_US      Total Suspended Solids     U                            
+St22-01_BMP_SVS_US      Turbidity                  U                            
+St22-01_BMP_WTBB_US     Total Aluminum             U                            
+St22-01_BMP_WTBB_US     Benzene                    J                            
+St22-01_BMP_WTBB_US     Total Beryllium            U                            
+St22-01_BMP_WTBB_US     Dissolved Copper           U                            
+St22-01_BMP_WTBB_US     Total Copper               U                            
+St22-01_BMP_WTBB_US     Dissolved Iron             J                            
+St22-01_BMP_WTBB_US     Total Iron                 J                            
+St22-01_BMP_WTBB_US     Total Lead                 J                            
+St22-01_BMP_WTBB_US     Total Magnesium            J                            
+
+SAMPLE_ID               PARAM_NAME                 DATA_QUAL                    
+----------------------- -------------------------- ---------                    
+St22-01_BMP_WTBB_US     Total Mercury              U                            
+St22-01_BMP_WTBB_US     Total Selenium             J                            
+St22-01_BMP_WTBB_US     Dissolved Selenium         U                            
+St22-01_BMP_WTBB_US     Dissolved Zinc             J                            
+St22-01_BMP_WTBB_US     Total Dissolved Solids     J                            
+St22-01_BMP_WTBB_US     Total Suspended Solids     U                            
+St22-01_BMP_WTBB_US_dup Total Aluminum             U                            
+St22-01_BMP_WTBB_US_dup Benzene                    J                            
+St22-01_BMP_WTBB_US_dup Total Beryllium            U                            
+St22-01_BMP_WTBB_US_dup Dissolved Copper           U                            
+St22-01_BMP_WTBB_US_dup Total Copper               U                            
+
+SAMPLE_ID               PARAM_NAME                 DATA_QUAL                    
+----------------------- -------------------------- ---------                    
+St22-01_BMP_WTBB_US_dup Dissolved Iron             J                            
+St22-01_BMP_WTBB_US_dup Total Iron                 J                            
+St22-01_BMP_WTBB_US_dup Total Lead                 J                            
+St22-01_BMP_WTBB_US_dup Total Mercury              U                            
+St22-01_BMP_WTBB_US_dup Total Nickel               J                            
+St22-01_BMP_WTBB_US_dup Total Selenium             J                            
+St22-01_BMP_WTBB_US_dup Dissolved Selenium         U                            
+St22-01_BMP_WTBB_US_dup Total Zinc                 J                            
+St22-01_BMP_WTBB_US_dup Dissolved Zinc             J                            
+St22-01_BMP_WTBB_US_dup Total Dissolved Solids     J                            
+St22-01_BMP_WTBB_US_dup Total Suspended Solids     U                            
+
+SAMPLE_ID               PARAM_NAME                 DATA_QUAL                    
+----------------------- -------------------------- ---------                    
+St22-01_BMP_VRBB_US     Total Antimony             J                            
+St22-01_BMP_VRBB_US     Benzene                    J                            
+St22-01_BMP_VRBB_US     Total Beryllium            U                            
+St22-01_BMP_VRBB_US     Dissolved Copper           U                            
+St22-01_BMP_VRBB_US     Total Copper               U                            
+St22-01_BMP_VRBB_US     Dissolved Iron             J                            
+St22-01_BMP_VRBB_US     Dissolved Lead             J                            
+St22-01_BMP_VRBB_US     Total Lead                 J                            
+St22-01_BMP_VRBB_US     Total Magnesium            J                            
+St22-01_BMP_VRBB_US     Total Mercury              U                            
+St22-01_BMP_VRBB_US     Total Nickel               U                            
+
+SAMPLE_ID               PARAM_NAME                 DATA_QUAL                    
+----------------------- -------------------------- ---------                    
+St22-01_BMP_VRBB_US     Nitrate + Nitrite Nitrogen J                            
+St22-01_BMP_VRBB_US     Total Selenium             J                            
+St22-01_BMP_VRBB_US     Total Selenium             H                            
+St22-01_BMP_VRBB_US     Dissolved Selenium         U                            
+St22-01_BMP_VRBB_US     Dissolved Selenium         H                            
+St22-01_BMP_VRBB_US     Alkalinity                 U                            
+St22-01_BMP_VRBB_US     Total Dissolved Solids     J                            
+St22-01_BMP_VRBB_US     Total Suspended Solids     U                            
+St22-01_BMP_ETW_US      Total Aluminum             U                            
+St22-01_BMP_ETW_US      Total Arsenic              J                            
+St22-01_BMP_ETW_US      Benzene                    J                            
+
+SAMPLE_ID               PARAM_NAME                 DATA_QUAL                    
+----------------------- -------------------------- ---------                    
+St22-01_BMP_ETW_US      Total Beryllium            U                            
+St22-01_BMP_ETW_US      Dissolved Copper           U                            
+St22-01_BMP_ETW_US      Total Copper               U                            
+St22-01_BMP_ETW_US      Dissolved Iron             U                            
+St22-01_BMP_ETW_US      Total Iron                 J                            
+St22-01_BMP_ETW_US      Dissolved Lead             U                            
+St22-01_BMP_ETW_US      Total Lead                 U                            
+St22-01_BMP_ETW_US      Total Magnesium            J                            
+St22-01_BMP_ETW_US      Total Mercury              U                            
+St22-01_BMP_ETW_US      Total Nickel               J                            
+St22-01_BMP_ETW_US      Dissolved Selenium         U                            
+
+SAMPLE_ID               PARAM_NAME                 DATA_QUAL                    
+----------------------- -------------------------- ---------                    
+St22-01_BMP_ETW_US      Total Zinc                 J                            
+St22-01_BMP_ETW_US      Dissolved Zinc             U                            
+St22-01_BMP_ETW_US      Total Dissolved Solids     J                            
+St22-01_BMP_ETW_US      Total Suspended Solids     U                            
+St22-01_BMP_QRIB_US     Total Aluminum             U                            
+St22-01_BMP_QRIB_US     Benzene                    J                            
+St22-01_BMP_QRIB_US     Total Beryllium            U                            
+St22-01_BMP_QRIB_US     Total Cadmium              J                            
+St22-01_BMP_QRIB_US     Dissolved Copper           U                            
+St22-01_BMP_QRIB_US     Total Copper               U                            
+
+329 rows selected.
+
+=====================
+Contents of Soil_Type
+=====================
+
+SOIL_ID SOIL_INFIL_RATE                                                         
+------- ---------------                                                         
+A                  2.35                                                         
+B                   .52                                                         
+C                   .12                                                         
+D                   .08                                                         
+
+=====================
+Contents of Soil_Area
+=====================
+
+SAMP_LOC_NAME SOIL_ID AREA_OF_SOIL                                              
+------------- ------- ------------                                              
+BMP_NTIB_US   D               8.04                                              
+BMP_VRIT_US   B                .92                                              
+BMP_SVS_US    B              10.65                                              
+BMP_WTBB_US   A              16.58                                              
+BMP_VRBB_US   B              18.14                                              
+BMP_VRBB_US   C                3.2                                              
+BMP_ETW_US    C                .66                                              
+BMP_QRIB_US   B               2.87                                              
+BMP_SVS_DS    B              10.65                                              
+BMP_ETW_DS    C                .66                                              
+West_OF1      B              28.31                                              
+
+SAMP_LOC_NAME SOIL_ID AREA_OF_SOIL                                              
+------------- ------- ------------                                              
+North_OF1     C              18.79                                              
+East_OF1      C              16.64                                              
+East_OF2      B              92.76                                              
+
+14 rows selected.
+
