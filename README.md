@@ -63,3 +63,8 @@ Markup : 1. Run 325design.sql to create tables.
 5. Run 325report1.sql to generate the first report.
 6. Run 325report2.sql and 325report3.sql in any order to generate the second and
    third reports.
+
+ Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
