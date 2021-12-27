@@ -96,6 +96,8 @@ locations.
    
 ## Database Model - Entity Relationship Diagram
 
+![alt text](https://github.com/agraystewart/stormwater_monitoring/blob/main/1c_325model.pdf)
+
 ## File Summary
 
 Programming files are described below.
