@@ -40,7 +40,7 @@ locations.
 
 ### Site Map
 
-![alt text](https://github.com/agraystewart/stormwater_monitoring/blob/main/ArcMap/StormwaterSampling.png)
+![alt text](ArcMap/StormwaterSampling.png)
 
 ### Example Client Questions
 
@@ -102,9 +102,9 @@ locations.
    
 ## Database Model - Entity Relationship Diagram
 
-![alt text](https://github.com/agraystewart/stormwater_monitoring/blob/main/325model_diagram.png)
+![alt text](325model_diagram.png)
 
-![alt text](https://github.com/agraystewart/stormwater_monitoring/blob/main/325model_attributes.png)
+![alt text](325model_attributes.png)
 
 ## File Summary
 
