@@ -1,4 +1,5 @@
-# Database Design Project - Stormwater Monitoring Database Implementation Using SQL
+# Stormwater Monitoring Database Implementation Using SQL
+Database Design, Fall 2021
 
 ## Table of Contents
 
