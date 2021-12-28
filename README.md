@@ -112,10 +112,10 @@ Programming files are described below.
 
 **sql\_insert.cpp and sql\_insert.h** - Contain the declaration and definition for the
     sql\_insert function, which creates SQL insert statements based on a csv text
-    file. See 325misc.pdf for more information.
+    file. For more explanation, see [Additional Information](#additional-information).
 
 **main.cpp** - Calls the sql\_insert function in order to create all SQL insert 
-    statements for the database. See 325misc.pdf for more information.
+    statements for the database. For more explanation, see [Additional Information](#additional-information).
 
 **325design.sql** - Includes drop table and create table statements for twelve 
     tables: parameter, storm, stormwater\_BMP, maintenance, sampling\_location,
